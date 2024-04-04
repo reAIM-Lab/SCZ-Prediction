@@ -84,9 +84,7 @@ outpatient_features = [i for i in forward_visit_features if 'outpatient' in i]
 ed_features = [i for i in forward_visit_features if 'ed' in i.lower()]
 psych_inpatient_features = [i for i in forward_visit_features if 'nonhospitalization' in i]
 
-
-df_index = ['Conditions', 'Medications', 'Labs', 'Procedures', 'Visits',
-            'Positive Visit Features', 'Inpatient', 'Outpatient', 'ED','Psychiatric Inpatient']
+df_index = ['Conditions', 'Medications', 'Labs', 'Procedures', 'Visits']
 list_alphas = 1-np.logspace(-2.5, 0, 30)
 results_ci95 = pd.DataFrame(index=df_index, columns=(1-list_alphas))
 results_mean = pd.DataFrame(index=df_index, columns=(1-list_alphas))
@@ -101,8 +99,8 @@ for a_ind in tqdm(range(len(list_alphas))):
     alpha = list_alphas[a_ind]
     alpha_worst = test_labels['bce_loss'].sort_values(ascending=False).iloc[0:int(np.floor(len(test_labels)*(1-alpha)))]
     test_worst = df_test.loc[alpha_worst.index]
-    for list_cols, name_list_cols in zip([cond_cols, med_cols, lab_cols, procedure_cols, visit_cols,
-                                         forward_visit_features, inpatient_features, outpatient_features, ed_features, psych_inpatient_features], results_ci95.index):
+    for list_cols, name_list_cols in zip([cond_cols, med_cols, lab_cols, procedure_cols, forward_visit_features], results_ci95.index):
+        
         # getting overall feature values
         grouped_mean = test_worst[list_cols].mean(axis=1)
         ci_low, ci_high = stats.t.interval(0.95, len(test_worst)-1, loc=grouped_mean.mean(), scale=stats.sem(grouped_mean))
@@ -119,13 +117,13 @@ for a_ind in tqdm(range(len(list_alphas))):
         results_correlation.loc[name_list_cols, 1-alpha] = corr_val
         results_correlation_ci95.loc[name_list_cols, 1-alpha] = corr_ci95
         
-plt.figure(figsize=(24,8))
+plt.figure(figsize=(24,4))
 font = {'size':20,
        'weight':'bold'}
 matplotlib.rc('font', **font)
 
-for i in range(0, 10):
-    plt.subplot(2,5,i+1)
+for i in range(0, 5):
+    plt.subplot(1,5,i+1)
     col = results_mean.index[i]
     plt.plot(1-list_alphas, results_mean.loc[col], 'o')
     ci_low = np.asarray(results_mean.loc[col]-results_ci95.loc[col]).astype(float)
@@ -139,13 +137,13 @@ for i in range(0, 10):
 plt.tight_layout()
 
 
-plt.figure(figsize=(30,10))
+plt.figure(figsize=(30,5))
 font = {'size':20,
        'weight':'bold'}
 matplotlib.rc('font', **font)
 
-for i in range(0, 10):
-    plt.subplot(2,5,i+1)
+for i in range(0, 5):
+    plt.subplot(1,5,i+1)
     col = results_mean.index[i]
     plt.plot(1-list_alphas, results_correlation.loc[col], 'o')
     ci_low = np.asarray(results_correlation.loc[col]-results_correlation_ci95.loc[col]).astype(float)
