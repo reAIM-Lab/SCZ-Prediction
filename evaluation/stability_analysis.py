@@ -22,9 +22,9 @@ df_pop['psychosis_diagnosis_date'] = pd.to_datetime(df_pop['psychosis_diagnosis_
 df_pop['cohort_start_date'] = pd.to_datetime(df_pop['cohort_start_date'])
 df_pop = df_pop.loc[(df_pop['cohort_start_date']-df_pop['psychosis_diagnosis_date']).dt.days >= num_days_prediction]
 
-test_labels = pd.read_csv('stored_data/4_19_model_test_output.csv')
-df_test = pd.read_csv('stored_data/test_df_4_19.csv')
-save_cols = load('stored_data/df_all_iters_columns_8_visits_4_18')
+test_labels = pd.read_csv('stored_data/5_21_model_test_output.csv')
+df_test = pd.read_csv('stored_data/test_df_5_21.csv')
+save_cols = load('stored_data/df_all_iters_columns_8_visits_5_21')
 save_cols.remove('iteration')
 
 # STABILITY ANALYSIS
@@ -122,4 +122,5 @@ for i in range(0, 5):
     plt.title(col)
     
 plt.tight_layout()
-plt.savefig('results/xgboost_stability_correlation.pdf', dpi=300)
+plt.savefig('results/xgboost_stability_correlation_5_21.pdf', dpi=300)
+plt.show()

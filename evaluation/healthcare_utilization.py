@@ -13,12 +13,7 @@ from joblib import load, dump
 import matplotlib
 from sklearn.metrics import *
 
-connection_string = (
-    'DRIVER={ODBC Driver 17 for SQL Server};'
-    'SERVER=OMOP.DBMI.COLUMBIA.EDU;'
-    'DATABASE=cdm_mdcd;'
-    'TRUSTED_CONNECTION=YES;')
-
+connection_string = ('YOUR CREDENTIALS HERE')
 conn = pyodbc.connect(connection_string)
 
 data_path = '../prediction_data/'
@@ -138,8 +133,8 @@ for ind in tqdm(range(len(list_cols))):
     col = list_cols[ind]
     df_hcu[col] = stats.percentileofscore(df_hcu[col], df_hcu[col], kind='weak')
 
-test_labels = pd.read_csv('stored_data/4_19_model_test_output.csv')
-save_cols = load('stored_data/df_all_iters_columns_8_visits_4_18')
+test_labels = pd.read_csv('stored_data/5_21_model_test_output.csv')
+save_cols = load('stored_data/df_all_iters_columns_8_visits_5_21')
 save_cols.remove('iteration')
 
 test_labels['type_prediction'] = 'TN'
@@ -178,13 +173,13 @@ inpatient_results = prediction_hcu_results.loc[['All_Inpatient', 'MH_Inpatient',
 outpatient_results = prediction_hcu_results.loc[['All_Outpatient', 'MH_Outpatient', 'NonMH_Outpatient']].reset_index()
 ed_results = prediction_hcu_results.loc[['All_ED', 'MH_ED', 'NonMH_ED']].reset_index()
 
-fig, axes = plt.subplots(nrows=1, ncols=3, figsize=(40,10))
-font = {'size':22}
+fig, axes = plt.subplots(nrows=1, ncols=3, figsize=(45,12))
+font = {'size':28}
 matplotlib.rc('font', **font)
 
 #PLOT 1: Inpatient
-ax = axes[0]
 matplotlib.rc('font', **font)
+ax = axes[0]
 ax = inpatient_results.plot.bar(x='index', y=['TP Mean Percentile', 'FN Mean Percentile', 'FP Mean Percentile', 'TN Mean Percentile'],
                 yerr=inpatient_results[['TP Error', 'FN Error', 'FP Error', 'TN Error']].T.values, color=['red', 'orange','blue', 'purple'], alpha=0.7, rot=45, ax=axes[0])
 ax.legend(['TP','FN', 'FP', 'TN'], bbox_to_anchor=[1, 1])
@@ -192,11 +187,11 @@ ax.set_title('Inpatient HCU across different prediction types')
 ax.set_ylabel('Average HCU Percentile')
 ax.set_xlabel('Inpatient HCU Type')
 ax.set_ylim([0,100])
-ax.set_xticklabels(['All', 'Mental Health', 'Non-Mental Health'], rotation=45, ha='right')
+ax.set_xticklabels(['All', 'Mental Health', 'Non-Mental Health'], rotation=0, ha='center')
 
 #PLOT 2: Outpatient
-ax = axes[1]
 matplotlib.rc('font', **font)
+ax = axes[1]
 ax = outpatient_results.plot.bar(x='index', y=['TP Mean Percentile', 'FN Mean Percentile', 'FP Mean Percentile', 'TN Mean Percentile'],
                 yerr=outpatient_results[['TP Error', 'FN Error', 'FP Error', 'TN Error']].T.values, color=['red', 'orange','blue', 'purple'], alpha=0.7, rot=45, ax=axes[1])
 ax.legend(['TP','FN', 'FP', 'TN'], bbox_to_anchor=[1, 1])
@@ -204,20 +199,20 @@ ax.set_title('Outpatient HCU across different prediction types')
 ax.set_ylabel('Average HCU Percentile')
 ax.set_xlabel('Outpatient HCU Type')
 ax.set_ylim([0,100])
-ax.set_xticklabels(['All', 'Mental Health', 'Non-Mental Health'], rotation=45, ha='right')
+ax.set_xticklabels(['All', 'Mental Health', 'Non-Mental Health'], rotation=0, ha='center')
 
 
 #PLOT 3: ED
-ax = axes[2]
 matplotlib.rc('font', **font)
+ax = axes[2]
 ax = ed_results.plot.bar(x='index', y=['TP Mean Percentile', 'FN Mean Percentile', 'FP Mean Percentile', 'TN Mean Percentile'],
                 yerr=ed_results[['TP Error', 'FN Error', 'FP Error', 'TN Error']].T.values, color=['red', 'orange','blue', 'purple'], alpha=0.7, rot=45, ax=axes[2])
 ax.legend(['TP','FN', 'FP', 'TN'], bbox_to_anchor=[1, 1])
 ax.set_title('ED HCU across different prediction types')
 ax.set_ylabel('Average HCU Percentile')
 ax.set_xlabel('ED HCU Type')
-ax.set_xticklabels(['All', 'Mental Health', 'Non-Mental Health'], rotation=45, ha='right')
-plt.tight_layout()
+ax.set_xticklabels(['All', 'Mental Health', 'Non-Mental Health'], rotation=0, ha='center')
 ax.set_ylim([0,100])
 
-plt.savefig('results/prediction_type_hcu.pdf', dpi=300)
+plt.tight_layout()
+plt.savefig('results/prediction_type_hcu_5_21.pdf', dpi=300)

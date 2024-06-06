@@ -6,14 +6,13 @@ import time
 import pickle
 import gc
 
-connection_string = ('CONNECTION STRING')
-
+connection_string = ('YOUR CREDENTIALS HERE')
 conn = pyodbc.connect(connection_string)
 
 path = 'prediction_data/'
 df_pop = pd.read_csv(path+'population.csv')
 
-# MEDICATIONS
+# Medications
 sz_meds_query = ("SELECT sz.person_id, sz.end_date, drug_concept_id, drug_era_start_date, drug_era_end_date, drug_exposure_count, gap_days "+ 
                  "FROM cdm_mdcd.results.ak4885_schizophrenia_cohort as sz "+
                    "LEFT JOIN cdm_mdcd.dbo.drug_era on drug_era.person_id = sz.person_id")
@@ -39,7 +38,8 @@ print(len(all_meds['person_id'].unique()))
 print(all_meds.isna().sum().sum())
 all_meds.to_csv(path+'temporal_medications.csv')
 
-# VISITS
+
+# Visits
 sz_visits_query = ("SELECT sz.person_id, sz.end_date, visit_occurrence_id, visit_concept_id, visit_start_date, visit_end_date, visit_type_concept_id " +
                    "FROM cdm_mdcd.results.ak4885_schizophrenia_cohort as sz "+
                    "LEFT JOIN cdm_mdcd.dbo.visit_occurrence as v on v.person_id = sz.person_id")
@@ -64,7 +64,7 @@ print(len(all_visits['person_id'].unique()))
 all_visits.to_csv(path+'temporal_visits.csv')
 print(all_visits.isna().sum().sum())
 
-# PROCEDURES
+# Procedures
 sz_procedures_query = ("SELECT sz.person_id, sz.end_date, procedure_date, procedure_concept_id, c.concept_name "+
                   "FROM cdm_mdcd.results.ak4885_schizophrenia_cohort as sz "+
                   "LEFT JOIN cdm_mdcd.dbo.procedure_occurrence as po on po.person_id = sz.person_id "+
@@ -91,7 +91,7 @@ print(len(all_procedures['person_id'].unique()))
 all_procedures.to_csv(path+'temporal_procedures.csv')
 print(all_procedures.isna().sum().sum())
 
-# LAB TESTS
+# Labs
 sz_measurement_query = ("SELECT sz.person_id, sz.end_date, measurement_date, measurement_concept_id, c.concept_name "+
                   "FROM cdm_mdcd.results.ak4885_schizophrenia_cohort as sz "+
                   "LEFT JOIN cdm_mdcd.dbo.measurement as m on m.person_id = sz.person_id "+
@@ -117,7 +117,7 @@ print(len(all_labs['person_id'].unique()))
 all_labs.to_csv(path+'temporal_labs.csv')
 print(all_labs.isna().sum().sum())
 
-# CONDITIONS
+# Conditions
 sz_conds_query = ("SELECT sz.person_id, sz.end_date, condition_start_date, condition_concept_id, c.concept_name "+
                   "FROM cdm_mdcd.results.ak4885_schizophrenia_cohort as sz "+
                   "LEFT JOIN cdm_mdcd.dbo.condition_occurrence as co on co.person_id = sz.person_id "+

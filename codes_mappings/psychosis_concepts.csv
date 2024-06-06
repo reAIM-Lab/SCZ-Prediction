@@ -1,0 +1,162 @@
+1568098,Alcohol abuse with alcohol-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,null,F10.15,2012-01-01,2099-12-31,null
+1568104,"Alcohol use, unspecified with alcohol-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,null,F10.95,2012-01-01,2099-12-31,null
+1568109,Opioid abuse with opioid-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,null,F11.15,2012-01-01,2099-12-31,null
+1568115,"Opioid use, unspecified with opioid-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,null,F11.95,2012-01-01,2099-12-31,null
+1568120,Cannabis abuse with psychotic disorder,Condition,ICD10CM,5-char nonbill code,null,F12.15,2012-01-01,2099-12-31,null
+1568126,"Cannabis use, unspecified with psychotic disorder",Condition,ICD10CM,5-char nonbill code,null,F12.95,2012-01-01,2099-12-31,null
+1568131,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,null,F13.15,2012-01-01,2099-12-31,null
+1568139,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,null,F13.95,2012-01-01,2099-12-31,null
+1568144,Cocaine abuse with cocaine-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,null,F14.15,2012-01-01,2099-12-31,null
+1568150,"Cocaine use, unspecified with cocaine-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,null,F14.95,2012-01-01,2099-12-31,null
+1568155,Other stimulant abuse with stimulant-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,null,F15.15,2012-01-01,2099-12-31,null
+1568158,Other stimulant dependence with stimulant-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,null,F15.25,2012-01-01,2099-12-31,null
+1568162,"Other stimulant use, unspecified with stimulant-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,null,F15.95,2012-01-01,2099-12-31,null
+1568167,Hallucinogen abuse with hallucinogen-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,null,F16.15,2012-01-01,2099-12-31,null
+1568171,Hallucinogen dependence with hallucinogen-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,null,F16.25,2012-01-01,2099-12-31,null
+1568175,"Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,null,F16.95,2012-01-01,2099-12-31,null
+1568184,Inhalant abuse with inhalant-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,null,F18.15,2012-01-01,2099-12-31,null
+1568188,Inhalant dependence with inhalant-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,null,F18.25,2012-01-01,2099-12-31,null
+1568192,"Inhalant use, unspecified with inhalant-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,null,F18.95,2012-01-01,2099-12-31,null
+1568197,Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,null,F19.15,2012-01-01,2099-12-31,null
+1568204,"Other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,null,F19.95,2012-01-01,2099-12-31,null
+1568206,Schizophrenia,Condition,ICD10CM,3-char nonbill code,null,F20,2012-01-01,2099-12-31,null
+1568207,Other schizophrenia,Condition,ICD10CM,4-char nonbill code,null,F20.8,2012-01-01,2099-12-31,null
+1568208,Schizoaffective disorders,Condition,ICD10CM,3-char nonbill code,null,F25,2012-01-01,2099-12-31,null
+1595540,Puerperal psychosis,Condition,ICD10CM,4-char billing code,null,F53.1,2019-01-01,2099-12-31,null
+35207126,Paranoid schizophrenia,Condition,ICD10CM,4-char billing code,null,F20.0,2007-01-01,2099-12-31,null
+35207127,Disorganized schizophrenia,Condition,ICD10CM,4-char billing code,null,F20.1,2007-01-01,2099-12-31,null
+35207128,Catatonic schizophrenia,Condition,ICD10CM,4-char billing code,null,F20.2,2007-01-01,2099-12-31,null
+35207129,Undifferentiated schizophrenia,Condition,ICD10CM,4-char billing code,null,F20.3,2007-01-01,2099-12-31,null
+35207130,Residual schizophrenia,Condition,ICD10CM,4-char billing code,null,F20.5,2007-01-01,2099-12-31,null
+35207131,"Schizophrenia, unspecified",Condition,ICD10CM,4-char billing code,null,F20.9,2007-01-01,2099-12-31,null
+35207133,Delusional disorders,Condition,ICD10CM,3-char billing code,null,F22,2007-01-01,2099-12-31,null
+35207134,Brief psychotic disorder,Condition,ICD10CM,3-char billing code,null,F23,2007-01-01,2099-12-31,null
+35207135,Shared psychotic disorder,Condition,ICD10CM,3-char billing code,null,F24,2007-01-01,2099-12-31,null
+35207136,"Schizoaffective disorder, bipolar type",Condition,ICD10CM,4-char billing code,null,F25.0,2007-01-01,2099-12-31,null
+35207137,"Schizoaffective disorder, depressive type",Condition,ICD10CM,4-char billing code,null,F25.1,2007-01-01,2099-12-31,null
+35207138,Other schizoaffective disorders,Condition,ICD10CM,4-char billing code,null,F25.8,2007-01-01,2099-12-31,null
+35207139,"Schizoaffective disorder, unspecified",Condition,ICD10CM,4-char billing code,null,F25.9,2007-01-01,2099-12-31,null
+35207140,Other psychotic disorder not due to a substance or known physiological condition,Condition,ICD10CM,3-char billing code,null,F28,2007-01-01,2099-12-31,null
+35207141,Unspecified psychosis not due to a substance or known physiological condition,Condition,ICD10CM,3-char billing code,null,F29,2007-01-01,2099-12-31,null
+35207142,"Manic episode, severe with psychotic symptoms",Condition,ICD10CM,4-char billing code,null,F30.2,2007-01-01,2099-12-31,null
+35207146,"Bipolar disorder, current episode manic severe with psychotic features",Condition,ICD10CM,4-char billing code,null,F31.2,2007-01-01,2099-12-31,null
+35207148,"Bipolar disorder, current episode depressed, severe, with psychotic features",Condition,ICD10CM,4-char billing code,null,F31.5,2007-01-01,2099-12-31,null
+35207153,"Major depressive disorder, single episode, severe with psychotic features",Condition,ICD10CM,4-char billing code,null,F32.3,2007-01-01,2099-12-31,null
+35207159,"Major depressive disorder, recurrent, severe with psychotic symptoms",Condition,ICD10CM,4-char billing code,null,F33.3,2007-01-01,2099-12-31,null
+44820717,"Major depressive affective disorder, single episode, severe, specified as with psychotic behavior",Condition,ICD9CM,5-dig billing code,null,296.24,1970-01-01,2099-12-31,null
+44820720,"Bipolar I disorder, most recent episode (or current) depressed, severe, specified as with psychotic behavior",Condition,ICD9CM,5-dig billing code,null,296.54,1970-01-01,2099-12-31,null
+44820723,Paranoid states (Delusional disorders),Condition,ICD9CM,3-dig nonbill code,null,297,1970-01-01,2099-12-31,null
+44820724,Other specified paranoid states,Condition,ICD9CM,4-dig billing code,null,297.8,1970-01-01,2099-12-31,null
+44824108,Alcohol-induced psychotic disorder with delusions,Condition,ICD9CM,4-dig billing code,null,291.5,1970-01-01,2099-12-31,null
+44824116,"Bipolar I disorder, most recent episode (or current) manic, severe, specified as with psychotic behavior",Condition,ICD9CM,5-dig billing code,null,296.44,1970-01-01,2099-12-31,null
+44824117,"Bipolar I disorder, most recent episode (or current) mixed, severe, specified as with psychotic behavior",Condition,ICD9CM,5-dig billing code,null,296.64,1970-01-01,2099-12-31,null
+44824119,Other nonorganic psychoses,Condition,ICD9CM,3-dig nonbill code,null,298,1970-01-01,2099-12-31,null
+44825287,Drug-induced psychotic disorders,Condition,ICD9CM,4-dig nonbill code,null,292.1,1970-01-01,2099-12-31,null
+44825294,Acute paranoid reaction,Condition,ICD9CM,4-dig billing code,null,298.3,1970-01-01,2099-12-31,null
+44826502,"Paranoid state, simple",Condition,ICD9CM,4-dig billing code,null,297.0,1970-01-01,2099-12-31,null
+44827642,Drug-induced psychotic disorder with delusions,Condition,ICD9CM,5-dig billing code,null,292.11,1970-01-01,2099-12-31,null
+44827655,"Major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior",Condition,ICD9CM,5-dig billing code,null,296.34,1970-01-01,2099-12-31,null
+44827658,Delusional disorder,Condition,ICD9CM,4-dig billing code,null,297.1,1970-01-01,2099-12-31,null
+44828832,Excitative type psychosis,Condition,ICD9CM,4-dig billing code,null,298.1,1970-01-01,2099-12-31,null
+44831087,"Bipolar I disorder, single manic episode, severe, specified as with psychotic behavior",Condition,ICD9CM,5-dig billing code,null,296.04,1970-01-01,2099-12-31,null
+44831088,"Manic affective disorder, recurrent episode, severe, specified as with psychotic behavior",Condition,ICD9CM,5-dig billing code,null,296.14,1970-01-01,2099-12-31,null
+44832220,Alcohol-induced psychotic disorder with hallucinations,Condition,ICD9CM,4-dig billing code,null,291.3,1970-01-01,2099-12-31,null
+44832221,Drug-induced psychotic disorder with hallucinations,Condition,ICD9CM,5-dig billing code,null,292.12,1970-01-01,2099-12-31,null
+44832236,Depressive type psychosis,Condition,ICD9CM,4-dig billing code,null,298.0,1970-01-01,2099-12-31,null
+44832237,Reactive confusion,Condition,ICD9CM,4-dig billing code,null,298.2,1970-01-01,2099-12-31,null
+44832238,Unspecified psychosis,Condition,ICD9CM,4-dig billing code,null,298.9,1970-01-01,2099-12-31,null
+44835787,Paraphrenia,Condition,ICD9CM,4-dig billing code,null,297.2,1970-01-01,2099-12-31,null
+44835788,Psychogenic paranoid psychosis,Condition,ICD9CM,4-dig billing code,null,298.4,1970-01-01,2099-12-31,null
+44836967,Shared psychotic disorder,Condition,ICD9CM,4-dig billing code,null,297.3,1970-01-01,2099-12-31,null
+44836968,Unspecified paranoid state,Condition,ICD9CM,4-dig billing code,null,297.9,1970-01-01,2099-12-31,null
+44836969,Other and unspecified reactive psychosis,Condition,ICD9CM,4-dig billing code,null,298.8,1970-01-01,2099-12-31,null
+45533071,"Cannabis use, unspecified with psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,null,F12.951,1970-01-01,2099-12-31,null
+45533074,Cocaine abuse with cocaine-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,null,F14.150,1970-01-01,2099-12-31,null
+45533076,"Cocaine use, unspecified with cocaine-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,null,F14.950,1970-01-01,2099-12-31,null
+45533077,"Cocaine use, unspecified with cocaine-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,null,F14.951,1970-01-01,2099-12-31,null
+45533087,Inhalant dependence with inhalant-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,null,F18.250,1970-01-01,2099-12-31,null
+45538013,Cannabis dependence with psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,null,F12.251,1970-01-01,2099-12-31,null
+45538014,"Cannabis dependence with psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F12.259,1970-01-01,2099-12-31,null
+45538020,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,null,F13.150,1970-01-01,2099-12-31,null
+45538025,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder",Condition,ICD10CM,5-char nonbill code,null,F13.25,2006-12-30,2099-12-31,null
+45538032,"Cocaine dependence with cocaine-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F14.259,1970-01-01,2099-12-31,null
+45538036,Other stimulant abuse with stimulant-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,null,F15.150,1970-01-01,2099-12-31,null
+45538037,"Other stimulant dependence with stimulant-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F15.259,1970-01-01,2099-12-31,null
+45542803,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,null,F13.251,1970-01-01,2099-12-31,null
+45542810,Other stimulant dependence with stimulant-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,null,F15.251,1970-01-01,2099-12-31,null
+45542813,"Other stimulant use, unspecified with stimulant-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F15.959,1970-01-01,2099-12-31,null
+45542819,"Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,null,F16.950,1970-01-01,2099-12-31,null
+45542820,"Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,null,F16.951,1970-01-01,2099-12-31,null
+45542827,Inhalant dependence with inhalant-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,null,F18.251,1970-01-01,2099-12-31,null
+45542832,Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,null,F19.25,2006-12-30,2099-12-31,null
+45547683,"Inhalant abuse with inhalant-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F18.159,1970-01-01,2099-12-31,null
+45547685,"Inhalant use, unspecified with inhalant-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,null,F18.951,1970-01-01,2099-12-31,null
+45547696,Other schizophrenia,Condition,ICD10CM,5-char billing code,null,F20.89,1970-01-01,2099-12-31,null
+45547703,"Bipolar disorder, current episode mixed, severe, with psychotic features",Condition,ICD10CM,5-char billing code,null,F31.64,1970-01-01,2099-12-31,null
+45552449,"Hallucinogen abuse with hallucinogen-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F16.159,1970-01-01,2099-12-31,null
+45552457,"Inhalant use, unspecified with inhalant-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,null,F18.950,1970-01-01,2099-12-31,null
+45557155,Alcohol dependence with alcohol-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,null,F10.251,1970-01-01,2099-12-31,null
+45557176,"Cocaine use, unspecified with cocaine-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F14.959,1970-01-01,2099-12-31,null
+45562003,Alcohol dependence with alcohol-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,null,F10.250,1970-01-01,2099-12-31,null
+45562007,"Opioid abuse with opioid-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F11.159,1970-01-01,2099-12-31,null
+45562012,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,null,F13.151,1970-01-01,2099-12-31,null
+45562020,Hallucinogen abuse with hallucinogen-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,null,F16.150,1970-01-01,2099-12-31,null
+45562021,Hallucinogen dependence with hallucinogen-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,null,F16.251,1970-01-01,2099-12-31,null
+45562030,"Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F19.159,1970-01-01,2099-12-31,null
+45562032,"Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F19.259,1970-01-01,2099-12-31,null
+45562038,Schizophreniform disorder,Condition,ICD10CM,5-char billing code,null,F20.81,1970-01-01,2099-12-31,null
+45566779,"Alcohol use, unspecified with alcohol-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,null,F10.950,1970-01-01,2099-12-31,null
+45566783,Opioid dependence with opioid-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,null,F11.25,2006-12-30,2099-12-31,null
+45566784,"Opioid dependence with opioid-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F11.259,1970-01-01,2099-12-31,null
+45566791,"Cannabis use, unspecified with psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F12.959,1970-01-01,2099-12-31,null
+45566805,"Other stimulant use, unspecified with stimulant-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,null,F15.950,1970-01-01,2099-12-31,null
+45566818,Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,null,F19.150,1970-01-01,2099-12-31,null
+45566828,"Other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,null,F19.950,1970-01-01,2099-12-31,null
+45566829,"Other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F19.959,1970-01-01,2099-12-31,null
+45571707,"Alcohol abuse with alcohol-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F10.159,1970-01-01,2099-12-31,null
+45571708,"Alcohol dependence with alcohol-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F10.259,1970-01-01,2099-12-31,null
+45571713,Opioid abuse with opioid-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,null,F11.151,1970-01-01,2099-12-31,null
+45571721,Cannabis dependence with psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,null,F12.250,1970-01-01,2099-12-31,null
+45571725,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,null,F13.951,1970-01-01,2099-12-31,null
+45571728,Cocaine dependence with cocaine-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,null,F14.25,2006-12-30,2099-12-31,null
+45571732,Other stimulant dependence with stimulant-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,null,F15.250,1970-01-01,2099-12-31,null
+45571735,"Hallucinogen dependence with hallucinogen-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F16.259,1970-01-01,2099-12-31,null
+45571738,"Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F16.959,1970-01-01,2099-12-31,null
+45576499,Opioid abuse with opioid-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,null,F11.150,1970-01-01,2099-12-31,null
+45576504,"Cannabis use, unspecified with psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,null,F12.950,1970-01-01,2099-12-31,null
+45576506,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F13.259,1970-01-01,2099-12-31,null
+45581413,Cannabis abuse with psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,null,F12.151,1970-01-01,2099-12-31,null
+45581414,"Cannabis abuse with psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F12.159,1970-01-01,2099-12-31,null
+45581416,Cannabis dependence with psychotic disorder,Condition,ICD10CM,5-char nonbill code,null,F12.25,2006-12-30,2099-12-31,null
+45581419,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,null,F13.250,1970-01-01,2099-12-31,null
+45581422,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,null,F13.950,1970-01-01,2099-12-31,null
+45581424,"Cocaine abuse with cocaine-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F14.159,1970-01-01,2099-12-31,null
+45581437,Inhalant abuse with inhalant-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,null,F18.151,1970-01-01,2099-12-31,null
+45581442,"Other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,null,F19.951,1970-01-01,2099-12-31,null
+45586192,"Alcohol use, unspecified with alcohol-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F10.959,1970-01-01,2099-12-31,null
+45586204,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F13.959,1970-01-01,2099-12-31,null
+45586213,"Other stimulant use, unspecified with stimulant-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,null,F15.951,1970-01-01,2099-12-31,null
+45591087,"Alcohol use, unspecified with alcohol-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,null,F10.951,1970-01-01,2099-12-31,null
+45591090,Opioid dependence with opioid-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,null,F11.251,1970-01-01,2099-12-31,null
+45591095,"Opioid use, unspecified with opioid-induced psychotic disorder with delusions",Condition,ICD10CM,6-char billing code,null,F11.950,1970-01-01,2099-12-31,null
+45591096,Cannabis abuse with psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,null,F12.150,1970-01-01,2099-12-31,null
+45591108,Other stimulant abuse with stimulant-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,null,F15.151,1970-01-01,2099-12-31,null
+45591113,Hallucinogen dependence with hallucinogen-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,null,F16.250,1970-01-01,2099-12-31,null
+45591120,"Inhalant dependence with inhalant-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F18.259,1970-01-01,2099-12-31,null
+45595846,Alcohol abuse with alcohol-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,null,F10.151,1970-01-01,2099-12-31,null
+45595854,Opioid dependence with opioid-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,null,F11.250,1970-01-01,2099-12-31,null
+45595856,"Opioid use, unspecified with opioid-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F11.959,1970-01-01,2099-12-31,null
+45595864,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F13.159,1970-01-01,2099-12-31,null
+45595871,Cocaine abuse with cocaine-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,null,F14.151,1970-01-01,2099-12-31,null
+45595879,Hallucinogen abuse with hallucinogen-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,null,F16.151,1970-01-01,2099-12-31,null
+45595892,Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,null,F19.250,1970-01-01,2099-12-31,null
+45595893,Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,null,F19.251,1970-01-01,2099-12-31,null
+45600692,Alcohol abuse with alcohol-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,null,F10.150,1970-01-01,2099-12-31,null
+45600695,Alcohol dependence with alcohol-induced psychotic disorder,Condition,ICD10CM,5-char nonbill code,null,F10.25,2006-12-30,2099-12-31,null
+45600708,Cocaine dependence with cocaine-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,null,F14.251,1970-01-01,2099-12-31,null
+45600726,Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder with hallucinations,Condition,ICD10CM,6-char billing code,null,F19.151,1970-01-01,2099-12-31,null
+45605464,"Opioid use, unspecified with opioid-induced psychotic disorder with hallucinations",Condition,ICD10CM,6-char billing code,null,F11.951,1970-01-01,2099-12-31,null
+45605468,Cocaine dependence with cocaine-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,null,F14.250,1970-01-01,2099-12-31,null
+45605471,"Other stimulant abuse with stimulant-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F15.159,1970-01-01,2099-12-31,null
+45605480,Inhalant abuse with inhalant-induced psychotic disorder with delusions,Condition,ICD10CM,6-char billing code,null,F18.150,1970-01-01,2099-12-31,null
+45605481,"Inhalant use, unspecified with inhalant-induced psychotic disorder, unspecified",Condition,ICD10CM,6-char billing code,null,F18.959,1970-01-01,2099-12-31,null
