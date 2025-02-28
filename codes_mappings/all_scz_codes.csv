@@ -1,0 +1,714 @@
+,standard_concept_id,icd_code,standard_concept_name,icd_name
+0,432299,295.8,Subchronic paranoid schizophrenia,Other specified types of schizophrenia
+1,432299,295.9,Subchronic paranoid schizophrenia,Unspecified schizophrenia
+2,432299,295.02,Subchronic paranoid schizophrenia,"Simple type schizophrenia, chronic"
+3,432299,295.30,Subchronic paranoid schizophrenia,"Paranoid type schizophrenia, unspecified"
+4,432299,295.00,Subchronic paranoid schizophrenia,"Simple type schizophrenia, unspecified"
+5,432299,F20.9,Subchronic paranoid schizophrenia,"Schizophrenia, unspecified"
+6,432299,295.01,Subchronic paranoid schizophrenia,"Simple type schizophrenia, subchronic"
+7,432299,295.90,Subchronic paranoid schizophrenia,"Unspecified schizophrenia, unspecified"
+8,432299,295.80,Subchronic paranoid schizophrenia,"Other specified types of schizophrenia, unspecified"
+9,432299,295.0,Subchronic paranoid schizophrenia,Simple type schizophrenia
+10,432299,295.3,Subchronic paranoid schizophrenia,Paranoid type schizophrenia
+11,432299,F20.89,Subchronic paranoid schizophrenia,Other schizophrenia
+12,432299,F20.0,Subchronic paranoid schizophrenia,Paranoid schizophrenia
+13,432299,F20.8,Subchronic paranoid schizophrenia,Other schizophrenia
+14,432299,F20,Subchronic paranoid schizophrenia,Schizophrenia
+15,432299,295.31,Subchronic paranoid schizophrenia,"Paranoid type schizophrenia, subchronic"
+16,432299,295.81,Subchronic paranoid schizophrenia,"Other specified types of schizophrenia, subchronic"
+17,432299,295.91,Subchronic paranoid schizophrenia,"Unspecified schizophrenia, subchronic"
+18,432300,295.5,Latent schizophrenia in remission,Latent schizophrenia
+19,432300,295.55,Latent schizophrenia in remission,"Latent schizophrenia, in remission"
+20,432300,295.50,Latent schizophrenia in remission,"Latent schizophrenia, unspecified"
+21,432597,295.7,Schizoaffective schizophrenia,Schizoaffective disorder
+22,432597,F25.9,Schizoaffective schizophrenia,"Schizoaffective disorder, unspecified"
+23,432597,F25.8,Schizoaffective schizophrenia,Other schizoaffective disorders
+24,432597,F25,Schizoaffective schizophrenia,Schizoaffective disorders
+25,432597,295.70,Schizoaffective schizophrenia,"Schizoaffective disorder, unspecified"
+26,432598,295.03,Subchronic schizophrenia with acute exacerbations,"Simple type schizophrenia, subchronic with acute exacerbation"
+27,432598,295.8,Subchronic schizophrenia with acute exacerbations,Other specified types of schizophrenia
+28,432598,295.9,Subchronic schizophrenia with acute exacerbations,Unspecified schizophrenia
+29,432598,295.02,Subchronic schizophrenia with acute exacerbations,"Simple type schizophrenia, chronic"
+30,432598,295.00,Subchronic schizophrenia with acute exacerbations,"Simple type schizophrenia, unspecified"
+31,432598,F20.9,Subchronic schizophrenia with acute exacerbations,"Schizophrenia, unspecified"
+32,432598,295.80,Subchronic schizophrenia with acute exacerbations,"Other specified types of schizophrenia, unspecified"
+33,432598,295.83,Subchronic schizophrenia with acute exacerbations,"Other specified types of schizophrenia, subchronic with acute exacerbation"
+34,432598,295.0,Subchronic schizophrenia with acute exacerbations,Simple type schizophrenia
+35,432598,295.93,Subchronic schizophrenia with acute exacerbations,"Unspecified schizophrenia, subchronic with acute exacerbation"
+36,432598,F20.89,Subchronic schizophrenia with acute exacerbations,Other schizophrenia
+37,432598,F20.8,Subchronic schizophrenia with acute exacerbations,Other schizophrenia
+38,432598,F20,Subchronic schizophrenia with acute exacerbations,Schizophrenia
+39,432598,295.81,Subchronic schizophrenia with acute exacerbations,"Other specified types of schizophrenia, subchronic"
+40,432598,295.91,Subchronic schizophrenia with acute exacerbations,"Unspecified schizophrenia, subchronic"
+41,432598,295.01,Subchronic schizophrenia with acute exacerbations,"Simple type schizophrenia, subchronic"
+42,432598,295.90,Subchronic schizophrenia with acute exacerbations,"Unspecified schizophrenia, unspecified"
+43,432864,295.8,Acute schizophrenic episode,Other specified types of schizophrenia
+44,432864,295.9,Acute schizophrenic episode,Unspecified schizophrenia
+45,432864,F20.9,Acute schizophrenic episode,"Schizophrenia, unspecified"
+46,432864,F20.8,Acute schizophrenic episode,Other schizophrenia
+47,432864,F20,Acute schizophrenic episode,Schizophrenia
+48,432864,295.90,Acute schizophrenic episode,"Unspecified schizophrenia, unspecified"
+49,432864,295.80,Acute schizophrenic episode,"Other specified types of schizophrenia, unspecified"
+50,432864,F20.89,Acute schizophrenic episode,Other schizophrenia
+51,432865,295.7,Acute exacerbation of subchronic schizoaffective schizophrenia,Schizoaffective disorder
+52,432865,F25.9,Acute exacerbation of subchronic schizoaffective schizophrenia,"Schizoaffective disorder, unspecified"
+53,432865,F25.8,Acute exacerbation of subchronic schizoaffective schizophrenia,Other schizoaffective disorders
+54,432865,F25,Acute exacerbation of subchronic schizoaffective schizophrenia,Schizoaffective disorders
+55,432865,295.73,Acute exacerbation of subchronic schizoaffective schizophrenia,"Schizoaffective disorder, subchronic with acute exacerbation"
+56,432865,295.70,Acute exacerbation of subchronic schizoaffective schizophrenia,"Schizoaffective disorder, unspecified"
+57,433442,295.8,Subchronic residual schizophrenia,Other specified types of schizophrenia
+58,433442,295.9,Subchronic residual schizophrenia,Unspecified schizophrenia
+59,433442,295.02,Subchronic residual schizophrenia,"Simple type schizophrenia, chronic"
+60,433442,295.00,Subchronic residual schizophrenia,"Simple type schizophrenia, unspecified"
+61,433442,F20.9,Subchronic residual schizophrenia,"Schizophrenia, unspecified"
+62,433442,F20.5,Subchronic residual schizophrenia,Residual schizophrenia
+63,433442,295.01,Subchronic residual schizophrenia,"Simple type schizophrenia, subchronic"
+64,433442,295.90,Subchronic residual schizophrenia,"Unspecified schizophrenia, unspecified"
+65,433442,295.80,Subchronic residual schizophrenia,"Other specified types of schizophrenia, unspecified"
+66,433442,295.0,Subchronic residual schizophrenia,Simple type schizophrenia
+67,433442,295.61,Subchronic residual schizophrenia,"Schizophrenic disorders, residual type, subchronic"
+68,433442,F20.89,Subchronic residual schizophrenia,Other schizophrenia
+69,433442,F20.8,Subchronic residual schizophrenia,Other schizophrenia
+70,433442,F20,Subchronic residual schizophrenia,Schizophrenia
+71,433442,295.6,Subchronic residual schizophrenia,Residual type schizophrenic disorders
+72,433442,295.81,Subchronic residual schizophrenia,"Other specified types of schizophrenia, subchronic"
+73,433442,295.60,Subchronic residual schizophrenia,"Schizophrenic disorders, residual type, unspecified"
+74,433442,295.91,Subchronic residual schizophrenia,"Unspecified schizophrenia, subchronic"
+75,433443,295.7,Subchronic schizoaffective schizophrenia,Schizoaffective disorder
+76,433443,F25.9,Subchronic schizoaffective schizophrenia,"Schizoaffective disorder, unspecified"
+77,433443,F25.8,Subchronic schizoaffective schizophrenia,Other schizoaffective disorders
+78,433443,F25,Subchronic schizoaffective schizophrenia,Schizoaffective disorders
+79,433443,295.71,Subchronic schizoaffective schizophrenia,"Schizoaffective disorder, subchronic"
+80,433443,295.70,Subchronic schizoaffective schizophrenia,"Schizoaffective disorder, unspecified"
+81,433450,295.8,Paranoid schizophrenia,Other specified types of schizophrenia
+82,433450,295.9,Paranoid schizophrenia,Unspecified schizophrenia
+83,433450,295.30,Paranoid schizophrenia,"Paranoid type schizophrenia, unspecified"
+84,433450,F20.9,Paranoid schizophrenia,"Schizophrenia, unspecified"
+85,433450,F20.0,Paranoid schizophrenia,Paranoid schizophrenia
+86,433450,F20.8,Paranoid schizophrenia,Other schizophrenia
+87,433450,F20,Paranoid schizophrenia,Schizophrenia
+88,433450,295.90,Paranoid schizophrenia,"Unspecified schizophrenia, unspecified"
+89,433450,295.80,Paranoid schizophrenia,"Other specified types of schizophrenia, unspecified"
+90,433450,295.3,Paranoid schizophrenia,Paranoid type schizophrenia
+91,433450,F20.89,Paranoid schizophrenia,Other schizophrenia
+92,433734,295.54,Acute exacerbation of chronic latent schizophrenia,"Latent schizophrenia, chronic with acute exacerbation"
+93,433742,295.5,Latent schizophrenia,Latent schizophrenia
+94,433742,295.50,Latent schizophrenia,"Latent schizophrenia, unspecified"
+95,433990,295.8,Subchronic catatonic schizophrenia,Other specified types of schizophrenia
+96,433990,295.20,Subchronic catatonic schizophrenia,"Catatonic type schizophrenia, unspecified"
+97,433990,295.9,Subchronic catatonic schizophrenia,Unspecified schizophrenia
+98,433990,295.02,Subchronic catatonic schizophrenia,"Simple type schizophrenia, chronic"
+99,433990,295.00,Subchronic catatonic schizophrenia,"Simple type schizophrenia, unspecified"
+100,433990,F20.9,Subchronic catatonic schizophrenia,"Schizophrenia, unspecified"
+101,433990,295.90,Subchronic catatonic schizophrenia,"Unspecified schizophrenia, unspecified"
+102,433990,295.80,Subchronic catatonic schizophrenia,"Other specified types of schizophrenia, unspecified"
+103,433990,295.0,Subchronic catatonic schizophrenia,Simple type schizophrenia
+104,433990,295.21,Subchronic catatonic schizophrenia,"Catatonic type schizophrenia, subchronic"
+105,433990,295.2,Subchronic catatonic schizophrenia,Catatonic type schizophrenia
+106,433990,F20.89,Subchronic catatonic schizophrenia,Other schizophrenia
+107,433990,F20.2,Subchronic catatonic schizophrenia,Catatonic schizophrenia
+108,433990,F20.8,Subchronic catatonic schizophrenia,Other schizophrenia
+109,433990,F20,Subchronic catatonic schizophrenia,Schizophrenia
+110,433990,295.81,Subchronic catatonic schizophrenia,"Other specified types of schizophrenia, subchronic"
+111,433990,295.91,Subchronic catatonic schizophrenia,"Unspecified schizophrenia, subchronic"
+112,433990,295.01,Subchronic catatonic schizophrenia,"Simple type schizophrenia, subchronic"
+113,433996,295.8,Catatonic schizophrenia,Other specified types of schizophrenia
+114,433996,295.20,Catatonic schizophrenia,"Catatonic type schizophrenia, unspecified"
+115,433996,295.9,Catatonic schizophrenia,Unspecified schizophrenia
+116,433996,F20.9,Catatonic schizophrenia,"Schizophrenia, unspecified"
+117,433996,F20.2,Catatonic schizophrenia,Catatonic schizophrenia
+118,433996,F20.8,Catatonic schizophrenia,Other schizophrenia
+119,433996,F20,Catatonic schizophrenia,Schizophrenia
+120,433996,295.90,Catatonic schizophrenia,"Unspecified schizophrenia, unspecified"
+121,433996,295.80,Catatonic schizophrenia,"Other specified types of schizophrenia, unspecified"
+122,433996,295.2,Catatonic schizophrenia,Catatonic type schizophrenia
+123,433996,F20.89,Catatonic schizophrenia,Other schizophrenia
+124,434318,295.8,Paraphrenia,Other specified types of schizophrenia
+125,434318,295.9,Paraphrenia,Unspecified schizophrenia
+126,434318,F20.9,Paraphrenia,"Schizophrenia, unspecified"
+127,434318,F20.8,Paraphrenia,Other schizophrenia
+128,434318,F20,Paraphrenia,Schizophrenia
+129,434318,295.90,Paraphrenia,"Unspecified schizophrenia, unspecified"
+130,434318,295.80,Paraphrenia,"Other specified types of schizophrenia, unspecified"
+131,434318,F20.89,Paraphrenia,Other schizophrenia
+132,434321,295.7,Schizoaffective schizophrenia in remission,Schizoaffective disorder
+133,434321,F25.9,Schizoaffective schizophrenia in remission,"Schizoaffective disorder, unspecified"
+134,434321,F25.8,Schizoaffective schizophrenia in remission,Other schizoaffective disorders
+135,434321,F25,Schizoaffective schizophrenia in remission,Schizoaffective disorders
+136,434321,295.75,Schizoaffective schizophrenia in remission,"Schizoaffective disorder, in remission"
+137,434321,295.70,Schizoaffective schizophrenia in remission,"Schizoaffective disorder, unspecified"
+138,434332,295.8,Catatonic schizophrenia in remission,Other specified types of schizophrenia
+139,434332,295.20,Catatonic schizophrenia in remission,"Catatonic type schizophrenia, unspecified"
+140,434332,295.9,Catatonic schizophrenia in remission,Unspecified schizophrenia
+141,434332,295.25,Catatonic schizophrenia in remission,"Catatonic type schizophrenia, in remission"
+142,434332,295.95,Catatonic schizophrenia in remission,"Unspecified schizophrenia, in remission"
+143,434332,F20.9,Catatonic schizophrenia in remission,"Schizophrenia, unspecified"
+144,434332,295.2,Catatonic schizophrenia in remission,Catatonic type schizophrenia
+145,434332,295.85,Catatonic schizophrenia in remission,"Other specified types of schizophrenia, in remission"
+146,434332,F20.89,Catatonic schizophrenia in remission,Other schizophrenia
+147,434332,F20.2,Catatonic schizophrenia in remission,Catatonic schizophrenia
+148,434332,F20.8,Catatonic schizophrenia in remission,Other schizophrenia
+149,434332,F20,Catatonic schizophrenia in remission,Schizophrenia
+150,434332,295.90,Catatonic schizophrenia in remission,"Unspecified schizophrenia, unspecified"
+151,434332,295.80,Catatonic schizophrenia in remission,"Other specified types of schizophrenia, unspecified"
+152,434332,295.05,Catatonic schizophrenia in remission,"Simple type schizophrenia, in remission"
+153,434901,295.03,Acute exacerbation of subchronic paranoid schizophrenia,"Simple type schizophrenia, subchronic with acute exacerbation"
+154,434901,295.8,Acute exacerbation of subchronic paranoid schizophrenia,Other specified types of schizophrenia
+155,434901,295.9,Acute exacerbation of subchronic paranoid schizophrenia,Unspecified schizophrenia
+156,434901,295.02,Acute exacerbation of subchronic paranoid schizophrenia,"Simple type schizophrenia, chronic"
+157,434901,295.30,Acute exacerbation of subchronic paranoid schizophrenia,"Paranoid type schizophrenia, unspecified"
+158,434901,295.00,Acute exacerbation of subchronic paranoid schizophrenia,"Simple type schizophrenia, unspecified"
+159,434901,295.0,Acute exacerbation of subchronic paranoid schizophrenia,Simple type schizophrenia
+160,434901,295.93,Acute exacerbation of subchronic paranoid schizophrenia,"Unspecified schizophrenia, subchronic with acute exacerbation"
+161,434901,295.3,Acute exacerbation of subchronic paranoid schizophrenia,Paranoid type schizophrenia
+162,434901,F20.89,Acute exacerbation of subchronic paranoid schizophrenia,Other schizophrenia
+163,434901,295.91,Acute exacerbation of subchronic paranoid schizophrenia,"Unspecified schizophrenia, subchronic"
+164,434901,295.01,Acute exacerbation of subchronic paranoid schizophrenia,"Simple type schizophrenia, subchronic"
+165,434901,295.33,Acute exacerbation of subchronic paranoid schizophrenia,"Paranoid type schizophrenia, subchronic with acute exacerbation"
+166,434901,295.90,Acute exacerbation of subchronic paranoid schizophrenia,"Unspecified schizophrenia, unspecified"
+167,434901,295.80,Acute exacerbation of subchronic paranoid schizophrenia,"Other specified types of schizophrenia, unspecified"
+168,434901,295.83,Acute exacerbation of subchronic paranoid schizophrenia,"Other specified types of schizophrenia, subchronic with acute exacerbation"
+169,434901,F20.9,Acute exacerbation of subchronic paranoid schizophrenia,"Schizophrenia, unspecified"
+170,434901,F20.0,Acute exacerbation of subchronic paranoid schizophrenia,Paranoid schizophrenia
+171,434901,F20.8,Acute exacerbation of subchronic paranoid schizophrenia,Other schizophrenia
+172,434901,F20,Acute exacerbation of subchronic paranoid schizophrenia,Schizophrenia
+173,434901,295.31,Acute exacerbation of subchronic paranoid schizophrenia,"Paranoid type schizophrenia, subchronic"
+174,434901,295.81,Acute exacerbation of subchronic paranoid schizophrenia,"Other specified types of schizophrenia, subchronic"
+175,435217,295.8,Paranoid schizophrenia in remission,Other specified types of schizophrenia
+176,435217,295.35,Paranoid schizophrenia in remission,"Paranoid type schizophrenia, in remission"
+177,435217,295.9,Paranoid schizophrenia in remission,Unspecified schizophrenia
+178,435217,295.95,Paranoid schizophrenia in remission,"Unspecified schizophrenia, in remission"
+179,435217,295.30,Paranoid schizophrenia in remission,"Paranoid type schizophrenia, unspecified"
+180,435217,F20.9,Paranoid schizophrenia in remission,"Schizophrenia, unspecified"
+181,435217,295.3,Paranoid schizophrenia in remission,Paranoid type schizophrenia
+182,435217,295.85,Paranoid schizophrenia in remission,"Other specified types of schizophrenia, in remission"
+183,435217,F20.89,Paranoid schizophrenia in remission,Other schizophrenia
+184,435217,F20.0,Paranoid schizophrenia in remission,Paranoid schizophrenia
+185,435217,F20.8,Paranoid schizophrenia in remission,Other schizophrenia
+186,435217,F20,Paranoid schizophrenia in remission,Schizophrenia
+187,435217,295.90,Paranoid schizophrenia in remission,"Unspecified schizophrenia, unspecified"
+188,435217,295.80,Paranoid schizophrenia in remission,"Other specified types of schizophrenia, unspecified"
+189,435217,295.05,Paranoid schizophrenia in remission,"Simple type schizophrenia, in remission"
+190,435218,295.8,Chronic residual schizophrenia with acute exacerbations,Other specified types of schizophrenia
+191,435218,295.9,Chronic residual schizophrenia with acute exacerbations,Unspecified schizophrenia
+192,435218,295.64,Chronic residual schizophrenia with acute exacerbations,"Schizophrenic disorders, residual type, chronic with acute exacerbation"
+193,435218,F20.9,Chronic residual schizophrenia with acute exacerbations,"Schizophrenia, unspecified"
+194,435218,F20.5,Chronic residual schizophrenia with acute exacerbations,Residual schizophrenia
+195,435218,F20.8,Chronic residual schizophrenia with acute exacerbations,Other schizophrenia
+196,435218,295.82,Chronic residual schizophrenia with acute exacerbations,"Other specified types of schizophrenia, chronic"
+197,435218,F20.89,Chronic residual schizophrenia with acute exacerbations,Other schizophrenia
+198,435218,F20,Chronic residual schizophrenia with acute exacerbations,Schizophrenia
+199,435218,295.6,Chronic residual schizophrenia with acute exacerbations,Residual type schizophrenic disorders
+200,435218,295.60,Chronic residual schizophrenia with acute exacerbations,"Schizophrenic disorders, residual type, unspecified"
+201,435218,295.62,Chronic residual schizophrenia with acute exacerbations,"Schizophrenic disorders, residual type, chronic"
+202,435218,295.90,Chronic residual schizophrenia with acute exacerbations,"Unspecified schizophrenia, unspecified"
+203,435218,295.80,Chronic residual schizophrenia with acute exacerbations,"Other specified types of schizophrenia, unspecified"
+204,435219,295.8,Schizophrenia in remission,Other specified types of schizophrenia
+205,435219,295.9,Schizophrenia in remission,Unspecified schizophrenia
+206,435219,295.95,Schizophrenia in remission,"Unspecified schizophrenia, in remission"
+207,435219,F20.9,Schizophrenia in remission,"Schizophrenia, unspecified"
+208,435219,F20.8,Schizophrenia in remission,Other schizophrenia
+209,435219,F20,Schizophrenia in remission,Schizophrenia
+210,435219,295.90,Schizophrenia in remission,"Unspecified schizophrenia, unspecified"
+211,435219,295.80,Schizophrenia in remission,"Other specified types of schizophrenia, unspecified"
+212,435219,295.05,Schizophrenia in remission,"Simple type schizophrenia, in remission"
+213,435219,295.85,Schizophrenia in remission,"Other specified types of schizophrenia, in remission"
+214,435219,F20.89,Schizophrenia in remission,Other schizophrenia
+215,435235,295.52,Chronic latent schizophrenia,"Latent schizophrenia, chronic"
+216,435236,295.7,Acute exacerbation of chronic schizoaffective schizophrenia,Schizoaffective disorder
+217,435236,F25.9,Acute exacerbation of chronic schizoaffective schizophrenia,"Schizoaffective disorder, unspecified"
+218,435236,F25.8,Acute exacerbation of chronic schizoaffective schizophrenia,Other schizoaffective disorders
+219,435236,F25,Acute exacerbation of chronic schizoaffective schizophrenia,Schizoaffective disorders
+220,435236,295.74,Acute exacerbation of chronic schizoaffective schizophrenia,"Schizoaffective disorder, chronic with acute exacerbation"
+221,435236,295.70,Acute exacerbation of chronic schizoaffective schizophrenia,"Schizoaffective disorder, unspecified"
+222,435782,295.8,Chronic schizophrenia,Other specified types of schizophrenia
+223,435782,295.9,Chronic schizophrenia,Unspecified schizophrenia
+224,435782,F20.9,Chronic schizophrenia,"Schizophrenia, unspecified"
+225,435782,F20.8,Chronic schizophrenia,Other schizophrenia
+226,435782,F20,Chronic schizophrenia,Schizophrenia
+227,435782,295.90,Chronic schizophrenia,"Unspecified schizophrenia, unspecified"
+228,435782,295.80,Chronic schizophrenia,"Other specified types of schizophrenia, unspecified"
+229,435782,295.82,Chronic schizophrenia,"Other specified types of schizophrenia, chronic"
+230,435782,F20.89,Chronic schizophrenia,Other schizophrenia
+231,435783,295.8,Schizophrenia,Other specified types of schizophrenia
+232,435783,295.9,Schizophrenia,Unspecified schizophrenia
+233,435783,F20.9,Schizophrenia,"Schizophrenia, unspecified"
+234,435783,F20.8,Schizophrenia,Other schizophrenia
+235,435783,F20,Schizophrenia,Schizophrenia
+236,435783,295.90,Schizophrenia,"Unspecified schizophrenia, unspecified"
+237,435783,295.80,Schizophrenia,"Other specified types of schizophrenia, unspecified"
+238,435783,F20.89,Schizophrenia,Other schizophrenia
+239,436067,295.8,Simple schizophrenia,Other specified types of schizophrenia
+240,436067,295.9,Simple schizophrenia,Unspecified schizophrenia
+241,436067,295.02,Simple schizophrenia,"Simple type schizophrenia, chronic"
+242,436067,295.00,Simple schizophrenia,"Simple type schizophrenia, unspecified"
+243,436067,F20.9,Simple schizophrenia,"Schizophrenia, unspecified"
+244,436067,F20.8,Simple schizophrenia,Other schizophrenia
+245,436067,F20,Simple schizophrenia,Schizophrenia
+246,436067,295.90,Simple schizophrenia,"Unspecified schizophrenia, unspecified"
+247,436067,295.80,Simple schizophrenia,"Other specified types of schizophrenia, unspecified"
+248,436067,295.0,Simple schizophrenia,Simple type schizophrenia
+249,436067,F20.89,Simple schizophrenia,Other schizophrenia
+250,436071,295.8,Acute exacerbation of chronic catatonic schizophrenia,Other specified types of schizophrenia
+251,436071,295.20,Acute exacerbation of chronic catatonic schizophrenia,"Catatonic type schizophrenia, unspecified"
+252,436071,295.9,Acute exacerbation of chronic catatonic schizophrenia,Unspecified schizophrenia
+253,436071,295.02,Acute exacerbation of chronic catatonic schizophrenia,"Simple type schizophrenia, chronic"
+254,436071,295.00,Acute exacerbation of chronic catatonic schizophrenia,"Simple type schizophrenia, unspecified"
+255,436071,295.94,Acute exacerbation of chronic catatonic schizophrenia,"Unspecified schizophrenia, chronic with acute exacerbation"
+256,436071,295.2,Acute exacerbation of chronic catatonic schizophrenia,Catatonic type schizophrenia
+257,436071,F20.89,Acute exacerbation of chronic catatonic schizophrenia,Other schizophrenia
+258,436071,295.80,Acute exacerbation of chronic catatonic schizophrenia,"Other specified types of schizophrenia, unspecified"
+259,436071,295.0,Acute exacerbation of chronic catatonic schizophrenia,Simple type schizophrenia
+260,436071,295.04,Acute exacerbation of chronic catatonic schizophrenia,"Simple type schizophrenia, chronic with acute exacerbation"
+261,436071,295.24,Acute exacerbation of chronic catatonic schizophrenia,"Catatonic type schizophrenia, chronic with acute exacerbation"
+262,436071,295.84,Acute exacerbation of chronic catatonic schizophrenia,"Other specified types of schizophrenia, chronic with acute exacerbation"
+263,436071,295.82,Acute exacerbation of chronic catatonic schizophrenia,"Other specified types of schizophrenia, chronic"
+264,436071,F20.9,Acute exacerbation of chronic catatonic schizophrenia,"Schizophrenia, unspecified"
+265,436071,F20.2,Acute exacerbation of chronic catatonic schizophrenia,Catatonic schizophrenia
+266,436071,F20.8,Acute exacerbation of chronic catatonic schizophrenia,Other schizophrenia
+267,436071,F20,Acute exacerbation of chronic catatonic schizophrenia,Schizophrenia
+268,436071,295.22,Acute exacerbation of chronic catatonic schizophrenia,"Catatonic type schizophrenia, chronic"
+269,436071,295.90,Acute exacerbation of chronic catatonic schizophrenia,"Unspecified schizophrenia, unspecified"
+270,436384,295.03,Subchronic disorganized schizophrenia with acute exacerbations,"Simple type schizophrenia, subchronic with acute exacerbation"
+271,436384,295.8,Subchronic disorganized schizophrenia with acute exacerbations,Other specified types of schizophrenia
+272,436384,295.9,Subchronic disorganized schizophrenia with acute exacerbations,Unspecified schizophrenia
+273,436384,295.10,Subchronic disorganized schizophrenia with acute exacerbations,"Disorganized type schizophrenia, unspecified"
+274,436384,295.02,Subchronic disorganized schizophrenia with acute exacerbations,"Simple type schizophrenia, chronic"
+275,436384,295.00,Subchronic disorganized schizophrenia with acute exacerbations,"Simple type schizophrenia, unspecified"
+276,436384,295.0,Subchronic disorganized schizophrenia with acute exacerbations,Simple type schizophrenia
+277,436384,295.13,Subchronic disorganized schizophrenia with acute exacerbations,"Disorganized type schizophrenia, subchronic with acute exacerbation"
+278,436384,295.93,Subchronic disorganized schizophrenia with acute exacerbations,"Unspecified schizophrenia, subchronic with acute exacerbation"
+279,436384,F20.89,Subchronic disorganized schizophrenia with acute exacerbations,Other schizophrenia
+280,436384,295.01,Subchronic disorganized schizophrenia with acute exacerbations,"Simple type schizophrenia, subchronic"
+281,436384,295.11,Subchronic disorganized schizophrenia with acute exacerbations,"Disorganized type schizophrenia, subchronic"
+282,436384,295.90,Subchronic disorganized schizophrenia with acute exacerbations,"Unspecified schizophrenia, unspecified"
+283,436384,295.1,Subchronic disorganized schizophrenia with acute exacerbations,Disorganized type schizophrenia
+284,436384,295.80,Subchronic disorganized schizophrenia with acute exacerbations,"Other specified types of schizophrenia, unspecified"
+285,436384,295.83,Subchronic disorganized schizophrenia with acute exacerbations,"Other specified types of schizophrenia, subchronic with acute exacerbation"
+286,436384,F20.9,Subchronic disorganized schizophrenia with acute exacerbations,"Schizophrenia, unspecified"
+287,436384,F20.1,Subchronic disorganized schizophrenia with acute exacerbations,Disorganized schizophrenia
+288,436384,F20.8,Subchronic disorganized schizophrenia with acute exacerbations,Other schizophrenia
+289,436384,F20,Subchronic disorganized schizophrenia with acute exacerbations,Schizophrenia
+290,436384,295.81,Subchronic disorganized schizophrenia with acute exacerbations,"Other specified types of schizophrenia, subchronic"
+291,436384,295.91,Subchronic disorganized schizophrenia with acute exacerbations,"Unspecified schizophrenia, subchronic"
+292,436385,295.8,Chronic disorganized schizophrenia with acute exacerbation,Other specified types of schizophrenia
+293,436385,295.14,Chronic disorganized schizophrenia with acute exacerbation,"Disorganized type schizophrenia, chronic with acute exacerbation"
+294,436385,295.9,Chronic disorganized schizophrenia with acute exacerbation,Unspecified schizophrenia
+295,436385,295.10,Chronic disorganized schizophrenia with acute exacerbation,"Disorganized type schizophrenia, unspecified"
+296,436385,F20.9,Chronic disorganized schizophrenia with acute exacerbation,"Schizophrenia, unspecified"
+297,436385,F20.1,Chronic disorganized schizophrenia with acute exacerbation,Disorganized schizophrenia
+298,436385,295.82,Chronic disorganized schizophrenia with acute exacerbation,"Other specified types of schizophrenia, chronic"
+299,436385,F20.89,Chronic disorganized schizophrenia with acute exacerbation,Other schizophrenia
+300,436385,F20.8,Chronic disorganized schizophrenia with acute exacerbation,Other schizophrenia
+301,436385,F20,Chronic disorganized schizophrenia with acute exacerbation,Schizophrenia
+302,436385,295.12,Chronic disorganized schizophrenia with acute exacerbation,"Disorganized type schizophrenia, chronic"
+303,436385,295.90,Chronic disorganized schizophrenia with acute exacerbation,"Unspecified schizophrenia, unspecified"
+304,436385,295.1,Chronic disorganized schizophrenia with acute exacerbation,Disorganized type schizophrenia
+305,436385,295.80,Chronic disorganized schizophrenia with acute exacerbation,"Other specified types of schizophrenia, unspecified"
+306,436673,295.8,Chronic residual schizophrenia,Other specified types of schizophrenia
+307,436673,295.9,Chronic residual schizophrenia,Unspecified schizophrenia
+308,436673,F20.9,Chronic residual schizophrenia,"Schizophrenia, unspecified"
+309,436673,F20.5,Chronic residual schizophrenia,Residual schizophrenia
+310,436673,F20.8,Chronic residual schizophrenia,Other schizophrenia
+311,436673,F20,Chronic residual schizophrenia,Schizophrenia
+312,436673,F20.89,Chronic residual schizophrenia,Other schizophrenia
+313,436673,295.6,Chronic residual schizophrenia,Residual type schizophrenic disorders
+314,436673,295.60,Chronic residual schizophrenia,"Schizophrenic disorders, residual type, unspecified"
+315,436673,295.62,Chronic residual schizophrenia,"Schizophrenic disorders, residual type, chronic"
+316,436673,295.90,Chronic residual schizophrenia,"Unspecified schizophrenia, unspecified"
+317,436673,295.80,Chronic residual schizophrenia,"Other specified types of schizophrenia, unspecified"
+318,436673,295.82,Chronic residual schizophrenia,"Other specified types of schizophrenia, chronic"
+319,436944,295.8,Chronic paranoid schizophrenia,Other specified types of schizophrenia
+320,436944,295.9,Chronic paranoid schizophrenia,Unspecified schizophrenia
+321,436944,295.30,Chronic paranoid schizophrenia,"Paranoid type schizophrenia, unspecified"
+322,436944,F20.9,Chronic paranoid schizophrenia,"Schizophrenia, unspecified"
+323,436944,F20.0,Chronic paranoid schizophrenia,Paranoid schizophrenia
+324,436944,F20.8,Chronic paranoid schizophrenia,Other schizophrenia
+325,436944,F20.89,Chronic paranoid schizophrenia,Other schizophrenia
+326,436944,F20,Chronic paranoid schizophrenia,Schizophrenia
+327,436944,295.32,Chronic paranoid schizophrenia,"Paranoid type schizophrenia, chronic"
+328,436944,295.90,Chronic paranoid schizophrenia,"Unspecified schizophrenia, unspecified"
+329,436944,295.80,Chronic paranoid schizophrenia,"Other specified types of schizophrenia, unspecified"
+330,436944,295.82,Chronic paranoid schizophrenia,"Other specified types of schizophrenia, chronic"
+331,436944,295.3,Chronic paranoid schizophrenia,Paranoid type schizophrenia
+332,436947,295.8,Disorganized schizophrenia in remission,Other specified types of schizophrenia
+333,436947,295.9,Disorganized schizophrenia in remission,Unspecified schizophrenia
+334,436947,295.10,Disorganized schizophrenia in remission,"Disorganized type schizophrenia, unspecified"
+335,436947,295.95,Disorganized schizophrenia in remission,"Unspecified schizophrenia, in remission"
+336,436947,F20.9,Disorganized schizophrenia in remission,"Schizophrenia, unspecified"
+337,436947,F20.1,Disorganized schizophrenia in remission,Disorganized schizophrenia
+338,436947,295.05,Disorganized schizophrenia in remission,"Simple type schizophrenia, in remission"
+339,436947,295.85,Disorganized schizophrenia in remission,"Other specified types of schizophrenia, in remission"
+340,436947,F20.89,Disorganized schizophrenia in remission,Other schizophrenia
+341,436947,F20.8,Disorganized schizophrenia in remission,Other schizophrenia
+342,436947,F20,Disorganized schizophrenia in remission,Schizophrenia
+343,436947,295.15,Disorganized schizophrenia in remission,"Disorganized type schizophrenia, in remission"
+344,436947,295.90,Disorganized schizophrenia in remission,"Unspecified schizophrenia, unspecified"
+345,436947,295.1,Disorganized schizophrenia in remission,Disorganized type schizophrenia
+346,436947,295.80,Disorganized schizophrenia in remission,"Other specified types of schizophrenia, unspecified"
+347,437243,295.8,Acute exacerbation of chronic paranoid schizophrenia,Other specified types of schizophrenia
+348,437243,295.9,Acute exacerbation of chronic paranoid schizophrenia,Unspecified schizophrenia
+349,437243,295.02,Acute exacerbation of chronic paranoid schizophrenia,"Simple type schizophrenia, chronic"
+350,437243,295.30,Acute exacerbation of chronic paranoid schizophrenia,"Paranoid type schizophrenia, unspecified"
+351,437243,295.00,Acute exacerbation of chronic paranoid schizophrenia,"Simple type schizophrenia, unspecified"
+352,437243,295.94,Acute exacerbation of chronic paranoid schizophrenia,"Unspecified schizophrenia, chronic with acute exacerbation"
+353,437243,295.3,Acute exacerbation of chronic paranoid schizophrenia,Paranoid type schizophrenia
+354,437243,F20.89,Acute exacerbation of chronic paranoid schizophrenia,Other schizophrenia
+355,437243,295.90,Acute exacerbation of chronic paranoid schizophrenia,"Unspecified schizophrenia, unspecified"
+356,437243,295.80,Acute exacerbation of chronic paranoid schizophrenia,"Other specified types of schizophrenia, unspecified"
+357,437243,295.0,Acute exacerbation of chronic paranoid schizophrenia,Simple type schizophrenia
+358,437243,295.04,Acute exacerbation of chronic paranoid schizophrenia,"Simple type schizophrenia, chronic with acute exacerbation"
+359,437243,295.84,Acute exacerbation of chronic paranoid schizophrenia,"Other specified types of schizophrenia, chronic with acute exacerbation"
+360,437243,295.82,Acute exacerbation of chronic paranoid schizophrenia,"Other specified types of schizophrenia, chronic"
+361,437243,F20.9,Acute exacerbation of chronic paranoid schizophrenia,"Schizophrenia, unspecified"
+362,437243,F20.0,Acute exacerbation of chronic paranoid schizophrenia,Paranoid schizophrenia
+363,437243,F20.8,Acute exacerbation of chronic paranoid schizophrenia,Other schizophrenia
+364,437243,F20,Acute exacerbation of chronic paranoid schizophrenia,Schizophrenia
+365,437243,295.34,Acute exacerbation of chronic paranoid schizophrenia,"Paranoid type schizophrenia, chronic with acute exacerbation"
+366,437243,295.32,Acute exacerbation of chronic paranoid schizophrenia,"Paranoid type schizophrenia, chronic"
+367,438724,295.8,Subchronic disorganized schizophrenia,Other specified types of schizophrenia
+368,438724,295.9,Subchronic disorganized schizophrenia,Unspecified schizophrenia
+369,438724,295.10,Subchronic disorganized schizophrenia,"Disorganized type schizophrenia, unspecified"
+370,438724,295.02,Subchronic disorganized schizophrenia,"Simple type schizophrenia, chronic"
+371,438724,295.00,Subchronic disorganized schizophrenia,"Simple type schizophrenia, unspecified"
+372,438724,F20.9,Subchronic disorganized schizophrenia,"Schizophrenia, unspecified"
+373,438724,295.11,Subchronic disorganized schizophrenia,"Disorganized type schizophrenia, subchronic"
+374,438724,295.90,Subchronic disorganized schizophrenia,"Unspecified schizophrenia, unspecified"
+375,438724,295.1,Subchronic disorganized schizophrenia,Disorganized type schizophrenia
+376,438724,295.80,Subchronic disorganized schizophrenia,"Other specified types of schizophrenia, unspecified"
+377,438724,295.0,Subchronic disorganized schizophrenia,Simple type schizophrenia
+378,438724,F20.89,Subchronic disorganized schizophrenia,Other schizophrenia
+379,438724,F20.1,Subchronic disorganized schizophrenia,Disorganized schizophrenia
+380,438724,F20.8,Subchronic disorganized schizophrenia,Other schizophrenia
+381,438724,F20,Subchronic disorganized schizophrenia,Schizophrenia
+382,438724,295.81,Subchronic disorganized schizophrenia,"Other specified types of schizophrenia, subchronic"
+383,438724,295.91,Subchronic disorganized schizophrenia,"Unspecified schizophrenia, subchronic"
+384,438724,295.01,Subchronic disorganized schizophrenia,"Simple type schizophrenia, subchronic"
+385,439004,295.8,Residual schizophrenia,Other specified types of schizophrenia
+386,439004,295.9,Residual schizophrenia,Unspecified schizophrenia
+387,439004,F20.9,Residual schizophrenia,"Schizophrenia, unspecified"
+388,439004,F20.5,Residual schizophrenia,Residual schizophrenia
+389,439004,F20.8,Residual schizophrenia,Other schizophrenia
+390,439004,F20,Residual schizophrenia,Schizophrenia
+391,439004,295.6,Residual schizophrenia,Residual type schizophrenic disorders
+392,439004,295.60,Residual schizophrenia,"Schizophrenic disorders, residual type, unspecified"
+393,439004,295.90,Residual schizophrenia,"Unspecified schizophrenia, unspecified"
+394,439004,295.80,Residual schizophrenia,"Other specified types of schizophrenia, unspecified"
+395,439004,F20.89,Residual schizophrenia,Other schizophrenia
+396,439274,295.03,Acute exacerbation of subchronic latent schizophrenia,"Simple type schizophrenia, subchronic with acute exacerbation"
+397,439274,295.8,Acute exacerbation of subchronic latent schizophrenia,Other specified types of schizophrenia
+398,439274,295.9,Acute exacerbation of subchronic latent schizophrenia,Unspecified schizophrenia
+399,439274,295.02,Acute exacerbation of subchronic latent schizophrenia,"Simple type schizophrenia, chronic"
+400,439274,295.00,Acute exacerbation of subchronic latent schizophrenia,"Simple type schizophrenia, unspecified"
+401,439274,F20.9,Acute exacerbation of subchronic latent schizophrenia,"Schizophrenia, unspecified"
+402,439274,F20.89,Acute exacerbation of subchronic latent schizophrenia,Other schizophrenia
+403,439274,295.51,Acute exacerbation of subchronic latent schizophrenia,"Latent schizophrenia, subchronic"
+404,439274,295.90,Acute exacerbation of subchronic latent schizophrenia,"Unspecified schizophrenia, unspecified"
+405,439274,295.80,Acute exacerbation of subchronic latent schizophrenia,"Other specified types of schizophrenia, unspecified"
+406,439274,295.83,Acute exacerbation of subchronic latent schizophrenia,"Other specified types of schizophrenia, subchronic with acute exacerbation"
+407,439274,295.0,Acute exacerbation of subchronic latent schizophrenia,Simple type schizophrenia
+408,439274,295.93,Acute exacerbation of subchronic latent schizophrenia,"Unspecified schizophrenia, subchronic with acute exacerbation"
+409,439274,F20.8,Acute exacerbation of subchronic latent schizophrenia,Other schizophrenia
+410,439274,F20,Acute exacerbation of subchronic latent schizophrenia,Schizophrenia
+411,439274,295.53,Acute exacerbation of subchronic latent schizophrenia,"Latent schizophrenia, subchronic with acute exacerbation"
+412,439274,295.81,Acute exacerbation of subchronic latent schizophrenia,"Other specified types of schizophrenia, subchronic"
+413,439274,295.91,Acute exacerbation of subchronic latent schizophrenia,"Unspecified schizophrenia, subchronic"
+414,439274,295.01,Acute exacerbation of subchronic latent schizophrenia,"Simple type schizophrenia, subchronic"
+415,439275,295.03,Acute exacerbation of subchronic catatonic schizophrenia,"Simple type schizophrenia, subchronic with acute exacerbation"
+416,439275,295.8,Acute exacerbation of subchronic catatonic schizophrenia,Other specified types of schizophrenia
+417,439275,295.20,Acute exacerbation of subchronic catatonic schizophrenia,"Catatonic type schizophrenia, unspecified"
+418,439275,295.9,Acute exacerbation of subchronic catatonic schizophrenia,Unspecified schizophrenia
+419,439275,295.02,Acute exacerbation of subchronic catatonic schizophrenia,"Simple type schizophrenia, chronic"
+420,439275,295.00,Acute exacerbation of subchronic catatonic schizophrenia,"Simple type schizophrenia, unspecified"
+421,439275,295.21,Acute exacerbation of subchronic catatonic schizophrenia,"Catatonic type schizophrenia, subchronic"
+422,439275,295.93,Acute exacerbation of subchronic catatonic schizophrenia,"Unspecified schizophrenia, subchronic with acute exacerbation"
+423,439275,295.2,Acute exacerbation of subchronic catatonic schizophrenia,Catatonic type schizophrenia
+424,439275,F20.89,Acute exacerbation of subchronic catatonic schizophrenia,Other schizophrenia
+425,439275,295.01,Acute exacerbation of subchronic catatonic schizophrenia,"Simple type schizophrenia, subchronic"
+426,439275,295.23,Acute exacerbation of subchronic catatonic schizophrenia,"Catatonic type schizophrenia, subchronic with acute exacerbation"
+427,439275,295.90,Acute exacerbation of subchronic catatonic schizophrenia,"Unspecified schizophrenia, unspecified"
+428,439275,295.80,Acute exacerbation of subchronic catatonic schizophrenia,"Other specified types of schizophrenia, unspecified"
+429,439275,295.83,Acute exacerbation of subchronic catatonic schizophrenia,"Other specified types of schizophrenia, subchronic with acute exacerbation"
+430,439275,295.0,Acute exacerbation of subchronic catatonic schizophrenia,Simple type schizophrenia
+431,439275,F20.9,Acute exacerbation of subchronic catatonic schizophrenia,"Schizophrenia, unspecified"
+432,439275,F20.2,Acute exacerbation of subchronic catatonic schizophrenia,Catatonic schizophrenia
+433,439275,F20.8,Acute exacerbation of subchronic catatonic schizophrenia,Other schizophrenia
+434,439275,F20,Acute exacerbation of subchronic catatonic schizophrenia,Schizophrenia
+435,439275,295.81,Acute exacerbation of subchronic catatonic schizophrenia,"Other specified types of schizophrenia, subchronic"
+436,439275,295.91,Acute exacerbation of subchronic catatonic schizophrenia,"Unspecified schizophrenia, subchronic"
+437,440077,295.51,Subchronic latent schizophrenia,"Latent schizophrenia, subchronic"
+438,440368,295.8,Chronic disorganized schizophrenia,Other specified types of schizophrenia
+439,440368,295.9,Chronic disorganized schizophrenia,Unspecified schizophrenia
+440,440368,295.10,Chronic disorganized schizophrenia,"Disorganized type schizophrenia, unspecified"
+441,440368,F20.9,Chronic disorganized schizophrenia,"Schizophrenia, unspecified"
+442,440368,F20.1,Chronic disorganized schizophrenia,Disorganized schizophrenia
+443,440368,F20.8,Chronic disorganized schizophrenia,Other schizophrenia
+444,440368,F20.89,Chronic disorganized schizophrenia,Other schizophrenia
+445,440368,F20,Chronic disorganized schizophrenia,Schizophrenia
+446,440368,295.12,Chronic disorganized schizophrenia,"Disorganized type schizophrenia, chronic"
+447,440368,295.90,Chronic disorganized schizophrenia,"Unspecified schizophrenia, unspecified"
+448,440368,295.1,Chronic disorganized schizophrenia,Disorganized type schizophrenia
+449,440368,295.80,Chronic disorganized schizophrenia,"Other specified types of schizophrenia, unspecified"
+450,440368,295.82,Chronic disorganized schizophrenia,"Other specified types of schizophrenia, chronic"
+451,440373,295.8,Subchronic schizophrenia,Other specified types of schizophrenia
+452,440373,295.9,Subchronic schizophrenia,Unspecified schizophrenia
+453,440373,295.02,Subchronic schizophrenia,"Simple type schizophrenia, chronic"
+454,440373,295.00,Subchronic schizophrenia,"Simple type schizophrenia, unspecified"
+455,440373,F20.9,Subchronic schizophrenia,"Schizophrenia, unspecified"
+456,440373,F20.8,Subchronic schizophrenia,Other schizophrenia
+457,440373,295.0,Subchronic schizophrenia,Simple type schizophrenia
+458,440373,F20.89,Subchronic schizophrenia,Other schizophrenia
+459,440373,F20,Subchronic schizophrenia,Schizophrenia
+460,440373,295.81,Subchronic schizophrenia,"Other specified types of schizophrenia, subchronic"
+461,440373,295.91,Subchronic schizophrenia,"Unspecified schizophrenia, subchronic"
+462,440373,295.01,Subchronic schizophrenia,"Simple type schizophrenia, subchronic"
+463,440373,295.90,Subchronic schizophrenia,"Unspecified schizophrenia, unspecified"
+464,440373,295.80,Subchronic schizophrenia,"Other specified types of schizophrenia, unspecified"
+465,440686,295.8,Residual schizophrenia in remission,Other specified types of schizophrenia
+466,440686,295.9,Residual schizophrenia in remission,Unspecified schizophrenia
+467,440686,295.95,Residual schizophrenia in remission,"Unspecified schizophrenia, in remission"
+468,440686,F20.9,Residual schizophrenia in remission,"Schizophrenia, unspecified"
+469,440686,F20.5,Residual schizophrenia in remission,Residual schizophrenia
+470,440686,F20.8,Residual schizophrenia in remission,Other schizophrenia
+471,440686,295.05,Residual schizophrenia in remission,"Simple type schizophrenia, in remission"
+472,440686,295.85,Residual schizophrenia in remission,"Other specified types of schizophrenia, in remission"
+473,440686,F20.89,Residual schizophrenia in remission,Other schizophrenia
+474,440686,F20,Residual schizophrenia in remission,Schizophrenia
+475,440686,295.6,Residual schizophrenia in remission,Residual type schizophrenic disorders
+476,440686,295.60,Residual schizophrenia in remission,"Schizophrenic disorders, residual type, unspecified"
+477,440686,295.65,Residual schizophrenia in remission,"Schizophrenic disorders, residual type, in remission"
+478,440686,295.90,Residual schizophrenia in remission,"Unspecified schizophrenia, unspecified"
+479,440686,295.80,Residual schizophrenia in remission,"Other specified types of schizophrenia, unspecified"
+480,441538,295.8,Chronic catatonic schizophrenia,Other specified types of schizophrenia
+481,441538,295.20,Chronic catatonic schizophrenia,"Catatonic type schizophrenia, unspecified"
+482,441538,295.9,Chronic catatonic schizophrenia,Unspecified schizophrenia
+483,441538,F20.9,Chronic catatonic schizophrenia,"Schizophrenia, unspecified"
+484,441538,F20.2,Chronic catatonic schizophrenia,Catatonic schizophrenia
+485,441538,F20.8,Chronic catatonic schizophrenia,Other schizophrenia
+486,441538,F20.89,Chronic catatonic schizophrenia,Other schizophrenia
+487,441538,F20,Chronic catatonic schizophrenia,Schizophrenia
+488,441538,295.22,Chronic catatonic schizophrenia,"Catatonic type schizophrenia, chronic"
+489,441538,295.90,Chronic catatonic schizophrenia,"Unspecified schizophrenia, unspecified"
+490,441538,295.80,Chronic catatonic schizophrenia,"Other specified types of schizophrenia, unspecified"
+491,441538,295.82,Chronic catatonic schizophrenia,"Other specified types of schizophrenia, chronic"
+492,441538,295.2,Chronic catatonic schizophrenia,Catatonic type schizophrenia
+493,441828,295.8,Disorganized schizophrenia,Other specified types of schizophrenia
+494,441828,295.9,Disorganized schizophrenia,Unspecified schizophrenia
+495,441828,295.10,Disorganized schizophrenia,"Disorganized type schizophrenia, unspecified"
+496,441828,F20.9,Disorganized schizophrenia,"Schizophrenia, unspecified"
+497,441828,F20.1,Disorganized schizophrenia,Disorganized schizophrenia
+498,441828,F20.8,Disorganized schizophrenia,Other schizophrenia
+499,441828,F20,Disorganized schizophrenia,Schizophrenia
+500,441828,295.90,Disorganized schizophrenia,"Unspecified schizophrenia, unspecified"
+501,441828,295.1,Disorganized schizophrenia,Disorganized type schizophrenia
+502,441828,295.80,Disorganized schizophrenia,"Other specified types of schizophrenia, unspecified"
+503,441828,F20.89,Disorganized schizophrenia,Other schizophrenia
+504,441835,295.7,Chronic schizoaffective schizophrenia,Schizoaffective disorder
+505,441835,295.72,Chronic schizoaffective schizophrenia,"Schizoaffective disorder, chronic"
+506,441835,F25.9,Chronic schizoaffective schizophrenia,"Schizoaffective disorder, unspecified"
+507,441835,F25.8,Chronic schizoaffective schizophrenia,Other schizoaffective disorders
+508,441835,F25,Chronic schizoaffective schizophrenia,Schizoaffective disorders
+509,441835,295.70,Chronic schizoaffective schizophrenia,"Schizoaffective disorder, unspecified"
+510,444396,295.03,Subchronic residual schizophrenia with acute exacerbations,"Simple type schizophrenia, subchronic with acute exacerbation"
+511,444396,295.8,Subchronic residual schizophrenia with acute exacerbations,Other specified types of schizophrenia
+512,444396,295.9,Subchronic residual schizophrenia with acute exacerbations,Unspecified schizophrenia
+513,444396,295.02,Subchronic residual schizophrenia with acute exacerbations,"Simple type schizophrenia, chronic"
+514,444396,295.00,Subchronic residual schizophrenia with acute exacerbations,"Simple type schizophrenia, unspecified"
+515,444396,F20.9,Subchronic residual schizophrenia with acute exacerbations,"Schizophrenia, unspecified"
+516,444396,295.0,Subchronic residual schizophrenia with acute exacerbations,Simple type schizophrenia
+517,444396,295.61,Subchronic residual schizophrenia with acute exacerbations,"Schizophrenic disorders, residual type, subchronic"
+518,444396,295.93,Subchronic residual schizophrenia with acute exacerbations,"Unspecified schizophrenia, subchronic with acute exacerbation"
+519,444396,F20.89,Subchronic residual schizophrenia with acute exacerbations,Other schizophrenia
+520,444396,295.91,Subchronic residual schizophrenia with acute exacerbations,"Unspecified schizophrenia, subchronic"
+521,444396,295.01,Subchronic residual schizophrenia with acute exacerbations,"Simple type schizophrenia, subchronic"
+522,444396,295.63,Subchronic residual schizophrenia with acute exacerbations,"Schizophrenic disorders, residual type, subchronic with acute exacerbation"
+523,444396,295.90,Subchronic residual schizophrenia with acute exacerbations,"Unspecified schizophrenia, unspecified"
+524,444396,295.80,Subchronic residual schizophrenia with acute exacerbations,"Other specified types of schizophrenia, unspecified"
+525,444396,295.83,Subchronic residual schizophrenia with acute exacerbations,"Other specified types of schizophrenia, subchronic with acute exacerbation"
+526,444396,F20.5,Subchronic residual schizophrenia with acute exacerbations,Residual schizophrenia
+527,444396,F20.8,Subchronic residual schizophrenia with acute exacerbations,Other schizophrenia
+528,444396,F20,Subchronic residual schizophrenia with acute exacerbations,Schizophrenia
+529,444396,295.6,Subchronic residual schizophrenia with acute exacerbations,Residual type schizophrenic disorders
+530,444396,295.81,Subchronic residual schizophrenia with acute exacerbations,"Other specified types of schizophrenia, subchronic"
+531,444396,295.60,Subchronic residual schizophrenia with acute exacerbations,"Schizophrenic disorders, residual type, unspecified"
+540,4008566,295.8,Undifferentiated schizophrenia,Other specified types of schizophrenia
+541,4008566,295.9,Undifferentiated schizophrenia,Unspecified schizophrenia
+542,4008566,F20.9,Undifferentiated schizophrenia,"Schizophrenia, unspecified"
+543,4008566,F20.8,Undifferentiated schizophrenia,Other schizophrenia
+544,4008566,F20,Undifferentiated schizophrenia,Schizophrenia
+545,4008566,295.90,Undifferentiated schizophrenia,"Unspecified schizophrenia, unspecified"
+546,4008566,295.80,Undifferentiated schizophrenia,"Other specified types of schizophrenia, unspecified"
+547,4008566,F20.89,Undifferentiated schizophrenia,Other schizophrenia
+548,4008566,F20.3,Undifferentiated schizophrenia,Undifferentiated schizophrenia
+549,4085662,295.8,Schizophrenic prodrome,Other specified types of schizophrenia
+550,4085662,295.9,Schizophrenic prodrome,Unspecified schizophrenia
+551,4085662,F20.9,Schizophrenic prodrome,"Schizophrenia, unspecified"
+552,4085662,F20.8,Schizophrenic prodrome,Other schizophrenia
+553,4085662,F20,Schizophrenic prodrome,Schizophrenia
+554,4085662,295.90,Schizophrenic prodrome,"Unspecified schizophrenia, unspecified"
+555,4085662,295.80,Schizophrenic prodrome,"Other specified types of schizophrenia, unspecified"
+556,4085662,F20.89,Schizophrenic prodrome,Other schizophrenia
+557,4100365,295,Schizophrenic disorders,Schizophrenic disorders
+558,4100365,295.8,Schizophrenic disorders,Other specified types of schizophrenia
+559,4100365,295.9,Schizophrenic disorders,Unspecified schizophrenia
+560,4100365,F20.9,Schizophrenic disorders,"Schizophrenia, unspecified"
+561,4100365,F20.8,Schizophrenic disorders,Other schizophrenia
+562,4100365,F20,Schizophrenic disorders,Schizophrenia
+563,4100365,295.90,Schizophrenic disorders,"Unspecified schizophrenia, unspecified"
+564,4100365,295.80,Schizophrenic disorders,"Other specified types of schizophrenia, unspecified"
+565,4100365,F20.89,Schizophrenic disorders,Other schizophrenia
+566,4100366,295.8,Acute exacerbation of chronic schizophrenia,Other specified types of schizophrenia
+567,4100366,295.9,Acute exacerbation of chronic schizophrenia,Unspecified schizophrenia
+568,4100366,295.02,Acute exacerbation of chronic schizophrenia,"Simple type schizophrenia, chronic"
+569,4100366,295.00,Acute exacerbation of chronic schizophrenia,"Simple type schizophrenia, unspecified"
+570,4100366,295.94,Acute exacerbation of chronic schizophrenia,"Unspecified schizophrenia, chronic with acute exacerbation"
+571,4100366,F20.9,Acute exacerbation of chronic schizophrenia,"Schizophrenia, unspecified"
+572,4100366,295.84,Acute exacerbation of chronic schizophrenia,"Other specified types of schizophrenia, chronic with acute exacerbation"
+573,4100366,295.82,Acute exacerbation of chronic schizophrenia,"Other specified types of schizophrenia, chronic"
+574,4100366,F20.89,Acute exacerbation of chronic schizophrenia,Other schizophrenia
+575,4100366,F20.8,Acute exacerbation of chronic schizophrenia,Other schizophrenia
+576,4100366,F20,Acute exacerbation of chronic schizophrenia,Schizophrenia
+577,4100366,295.90,Acute exacerbation of chronic schizophrenia,"Unspecified schizophrenia, unspecified"
+578,4100366,295.80,Acute exacerbation of chronic schizophrenia,"Other specified types of schizophrenia, unspecified"
+579,4100366,295.0,Acute exacerbation of chronic schizophrenia,Simple type schizophrenia
+580,4100366,295.04,Acute exacerbation of chronic schizophrenia,"Simple type schizophrenia, chronic with acute exacerbation"
+581,4102660,295.8,Cenesthopathic schizophrenia,Other specified types of schizophrenia
+582,4102660,295.9,Cenesthopathic schizophrenia,Unspecified schizophrenia
+583,4102660,F20.9,Cenesthopathic schizophrenia,"Schizophrenia, unspecified"
+584,4102660,F20.8,Cenesthopathic schizophrenia,Other schizophrenia
+585,4102660,F20,Cenesthopathic schizophrenia,Schizophrenia
+586,4102660,295.90,Cenesthopathic schizophrenia,"Unspecified schizophrenia, unspecified"
+587,4102660,295.80,Cenesthopathic schizophrenia,"Other specified types of schizophrenia, unspecified"
+588,4102660,F20.89,Cenesthopathic schizophrenia,Other schizophrenia
+589,4105330,295.8,Chronic undifferentiated schizophrenia,Other specified types of schizophrenia
+590,4105330,295.9,Chronic undifferentiated schizophrenia,Unspecified schizophrenia
+591,4105330,F20.9,Chronic undifferentiated schizophrenia,"Schizophrenia, unspecified"
+592,4105330,F20.8,Chronic undifferentiated schizophrenia,Other schizophrenia
+593,4105330,F20,Chronic undifferentiated schizophrenia,Schizophrenia
+594,4105330,295.92,Chronic undifferentiated schizophrenia,"Unspecified schizophrenia, chronic"
+595,4105330,295.90,Chronic undifferentiated schizophrenia,"Unspecified schizophrenia, unspecified"
+596,4105330,295.80,Chronic undifferentiated schizophrenia,"Other specified types of schizophrenia, unspecified"
+597,4105330,295.82,Chronic undifferentiated schizophrenia,"Other specified types of schizophrenia, chronic"
+598,4105330,F20.89,Chronic undifferentiated schizophrenia,Other schizophrenia
+599,4105330,F20.3,Chronic undifferentiated schizophrenia,Undifferentiated schizophrenia
+600,4152971,295.7,"Schizoaffective disorder, mixed type",Schizoaffective disorder
+601,4152971,F25.9,"Schizoaffective disorder, mixed type","Schizoaffective disorder, unspecified"
+602,4152971,F25.8,"Schizoaffective disorder, mixed type",Other schizoaffective disorders
+603,4152971,F25,"Schizoaffective disorder, mixed type",Schizoaffective disorders
+604,4152971,295.70,"Schizoaffective disorder, mixed type","Schizoaffective disorder, unspecified"
+605,4153292,295.7,"Schizoaffective disorder, manic type",Schizoaffective disorder
+606,4153292,F25.9,"Schizoaffective disorder, manic type","Schizoaffective disorder, unspecified"
+607,4153292,F25.8,"Schizoaffective disorder, manic type",Other schizoaffective disorders
+608,4153292,F25,"Schizoaffective disorder, manic type",Schizoaffective disorders
+609,4153292,295.70,"Schizoaffective disorder, manic type","Schizoaffective disorder, unspecified"
+618,4194671,295.8,Chronic undifferentiated schizophrenia with acute exacerbations,Other specified types of schizophrenia
+619,4194671,295.9,Chronic undifferentiated schizophrenia with acute exacerbations,Unspecified schizophrenia
+620,4194671,F20.9,Chronic undifferentiated schizophrenia with acute exacerbations,"Schizophrenia, unspecified"
+621,4194671,F20.8,Chronic undifferentiated schizophrenia with acute exacerbations,Other schizophrenia
+622,4194671,F20,Chronic undifferentiated schizophrenia with acute exacerbations,Schizophrenia
+623,4194671,295.92,Chronic undifferentiated schizophrenia with acute exacerbations,"Unspecified schizophrenia, chronic"
+624,4194671,295.90,Chronic undifferentiated schizophrenia with acute exacerbations,"Unspecified schizophrenia, unspecified"
+625,4194671,295.80,Chronic undifferentiated schizophrenia with acute exacerbations,"Other specified types of schizophrenia, unspecified"
+626,4194671,295.82,Chronic undifferentiated schizophrenia with acute exacerbations,"Other specified types of schizophrenia, chronic"
+627,4194671,F20.89,Chronic undifferentiated schizophrenia with acute exacerbations,Other schizophrenia
+628,4194671,F20.3,Chronic undifferentiated schizophrenia with acute exacerbations,Undifferentiated schizophrenia
+629,4213979,295.8,Undifferentiated schizophrenia in remission,Other specified types of schizophrenia
+630,4213979,295.9,Undifferentiated schizophrenia in remission,Unspecified schizophrenia
+631,4213979,295.95,Undifferentiated schizophrenia in remission,"Unspecified schizophrenia, in remission"
+632,4213979,F20.9,Undifferentiated schizophrenia in remission,"Schizophrenia, unspecified"
+633,4213979,F20.8,Undifferentiated schizophrenia in remission,Other schizophrenia
+634,4213979,F20,Undifferentiated schizophrenia in remission,Schizophrenia
+635,4213979,295.90,Undifferentiated schizophrenia in remission,"Unspecified schizophrenia, unspecified"
+636,4213979,295.80,Undifferentiated schizophrenia in remission,"Other specified types of schizophrenia, unspecified"
+637,4213979,295.05,Undifferentiated schizophrenia in remission,"Simple type schizophrenia, in remission"
+638,4213979,295.85,Undifferentiated schizophrenia in remission,"Other specified types of schizophrenia, in remission"
+639,4213979,F20.89,Undifferentiated schizophrenia in remission,Other schizophrenia
+640,4213979,F20.3,Undifferentiated schizophrenia in remission,Undifferentiated schizophrenia
+641,4219539,295.8,Late onset schizophrenia,Other specified types of schizophrenia
+642,4219539,295.9,Late onset schizophrenia,Unspecified schizophrenia
+643,4219539,F20.9,Late onset schizophrenia,"Schizophrenia, unspecified"
+644,4219539,F20.8,Late onset schizophrenia,Other schizophrenia
+645,4219539,F20,Late onset schizophrenia,Schizophrenia
+646,4219539,295.90,Late onset schizophrenia,"Unspecified schizophrenia, unspecified"
+647,4219539,295.80,Late onset schizophrenia,"Other specified types of schizophrenia, unspecified"
+648,4219539,F20.89,Late onset schizophrenia,Other schizophrenia
+649,4224940,295.7,"Schizoaffective disorder, depressive type",Schizoaffective disorder
+650,4224940,F25.9,"Schizoaffective disorder, depressive type","Schizoaffective disorder, unspecified"
+651,4224940,F25.8,"Schizoaffective disorder, depressive type",Other schizoaffective disorders
+652,4224940,F25,"Schizoaffective disorder, depressive type",Schizoaffective disorders
+653,4224940,F25.1,"Schizoaffective disorder, depressive type","Schizoaffective disorder, depressive type"
+654,4224940,295.70,"Schizoaffective disorder, depressive type","Schizoaffective disorder, unspecified"
+655,4244059,295.8,Involutional paraphrenia,Other specified types of schizophrenia
+656,4244059,295.9,Involutional paraphrenia,Unspecified schizophrenia
+657,4244059,F20.9,Involutional paraphrenia,"Schizophrenia, unspecified"
+658,4244059,F20.8,Involutional paraphrenia,Other schizophrenia
+659,4244059,F20,Involutional paraphrenia,Schizophrenia
+660,4244059,295.90,Involutional paraphrenia,"Unspecified schizophrenia, unspecified"
+661,4244059,295.80,Involutional paraphrenia,"Other specified types of schizophrenia, unspecified"
+662,4244059,F20.89,Involutional paraphrenia,Other schizophrenia
+663,4244078,295.7,"Schizoaffective disorder, bipolar type",Schizoaffective disorder
+664,4244078,F25.9,"Schizoaffective disorder, bipolar type","Schizoaffective disorder, unspecified"
+665,4244078,F25.8,"Schizoaffective disorder, bipolar type",Other schizoaffective disorders
+666,4244078,F25,"Schizoaffective disorder, bipolar type",Schizoaffective disorders
+667,4244078,295.70,"Schizoaffective disorder, bipolar type","Schizoaffective disorder, unspecified"
+668,4244078,F25.0,"Schizoaffective disorder, bipolar type","Schizoaffective disorder, bipolar type"
+677,4286201,295.7,Schizoaffective disorder,Schizoaffective disorder
+678,4286201,F25.9,Schizoaffective disorder,"Schizoaffective disorder, unspecified"
+679,4286201,F25.8,Schizoaffective disorder,Other schizoaffective disorders
+680,4286201,F25,Schizoaffective disorder,Schizoaffective disorders
+681,4286201,295.70,Schizoaffective disorder,"Schizoaffective disorder, unspecified"
+682,4310121,295.8,Subchronic undifferentiated schizophrenia,Other specified types of schizophrenia
+683,4310121,295.9,Subchronic undifferentiated schizophrenia,Unspecified schizophrenia
+684,4310121,295.02,Subchronic undifferentiated schizophrenia,"Simple type schizophrenia, chronic"
+685,4310121,295.00,Subchronic undifferentiated schizophrenia,"Simple type schizophrenia, unspecified"
+686,4310121,F20.9,Subchronic undifferentiated schizophrenia,"Schizophrenia, unspecified"
+687,4310121,F20.8,Subchronic undifferentiated schizophrenia,Other schizophrenia
+688,4310121,295.0,Subchronic undifferentiated schizophrenia,Simple type schizophrenia
+689,4310121,F20.89,Subchronic undifferentiated schizophrenia,Other schizophrenia
+690,4310121,F20.3,Subchronic undifferentiated schizophrenia,Undifferentiated schizophrenia
+691,4310121,F20,Subchronic undifferentiated schizophrenia,Schizophrenia
+692,4310121,295.81,Subchronic undifferentiated schizophrenia,"Other specified types of schizophrenia, subchronic"
+693,4310121,295.91,Subchronic undifferentiated schizophrenia,"Unspecified schizophrenia, subchronic"
+694,4310121,295.01,Subchronic undifferentiated schizophrenia,"Simple type schizophrenia, subchronic"
+695,4310121,295.90,Subchronic undifferentiated schizophrenia,"Unspecified schizophrenia, unspecified"
+696,4310121,295.80,Subchronic undifferentiated schizophrenia,"Other specified types of schizophrenia, unspecified"
+697,4321694,295.03,Subchronic undifferentiated schizophrenia with acute exacerbations,"Simple type schizophrenia, subchronic with acute exacerbation"
+698,4321694,295.8,Subchronic undifferentiated schizophrenia with acute exacerbations,Other specified types of schizophrenia
+699,4321694,295.9,Subchronic undifferentiated schizophrenia with acute exacerbations,Unspecified schizophrenia
+700,4321694,295.02,Subchronic undifferentiated schizophrenia with acute exacerbations,"Simple type schizophrenia, chronic"
+701,4321694,295.00,Subchronic undifferentiated schizophrenia with acute exacerbations,"Simple type schizophrenia, unspecified"
+702,4321694,F20.9,Subchronic undifferentiated schizophrenia with acute exacerbations,"Schizophrenia, unspecified"
+703,4321694,295.80,Subchronic undifferentiated schizophrenia with acute exacerbations,"Other specified types of schizophrenia, unspecified"
+704,4321694,295.83,Subchronic undifferentiated schizophrenia with acute exacerbations,"Other specified types of schizophrenia, subchronic with acute exacerbation"
+705,4321694,295.0,Subchronic undifferentiated schizophrenia with acute exacerbations,Simple type schizophrenia
+706,4321694,295.93,Subchronic undifferentiated schizophrenia with acute exacerbations,"Unspecified schizophrenia, subchronic with acute exacerbation"
+707,4321694,F20.89,Subchronic undifferentiated schizophrenia with acute exacerbations,Other schizophrenia
+708,4321694,F20.3,Subchronic undifferentiated schizophrenia with acute exacerbations,Undifferentiated schizophrenia
+709,4321694,F20.8,Subchronic undifferentiated schizophrenia with acute exacerbations,Other schizophrenia
+710,4321694,F20,Subchronic undifferentiated schizophrenia with acute exacerbations,Schizophrenia
+711,4321694,295.81,Subchronic undifferentiated schizophrenia with acute exacerbations,"Other specified types of schizophrenia, subchronic"
+712,4321694,295.91,Subchronic undifferentiated schizophrenia with acute exacerbations,"Unspecified schizophrenia, subchronic"
+713,4321694,295.01,Subchronic undifferentiated schizophrenia with acute exacerbations,"Simple type schizophrenia, subchronic"
+714,4321694,295.90,Subchronic undifferentiated schizophrenia with acute exacerbations,"Unspecified schizophrenia, unspecified"
+715,35610094,295.8,Cataleptic schizophrenia,Other specified types of schizophrenia
+716,35610094,295.20,Cataleptic schizophrenia,"Catatonic type schizophrenia, unspecified"
+717,35610094,295.9,Cataleptic schizophrenia,Unspecified schizophrenia
+718,35610094,F20.9,Cataleptic schizophrenia,"Schizophrenia, unspecified"
+719,35610094,F20.2,Cataleptic schizophrenia,Catatonic schizophrenia
+720,35610094,F20.8,Cataleptic schizophrenia,Other schizophrenia
+721,35610094,F20,Cataleptic schizophrenia,Schizophrenia
+722,35610094,295.90,Cataleptic schizophrenia,"Unspecified schizophrenia, unspecified"
+723,35610094,295.80,Cataleptic schizophrenia,"Other specified types of schizophrenia, unspecified"
+724,35610094,295.2,Cataleptic schizophrenia,Catatonic type schizophrenia
+725,35610094,F20.89,Cataleptic schizophrenia,Other schizophrenia
+726,40480879,295.8,Lethal catatonia,Other specified types of schizophrenia
+727,40480879,295.20,Lethal catatonia,"Catatonic type schizophrenia, unspecified"
+728,40480879,295.9,Lethal catatonia,Unspecified schizophrenia
+729,40480879,F20.9,Lethal catatonia,"Schizophrenia, unspecified"
+730,40480879,F20.2,Lethal catatonia,Catatonic schizophrenia
+731,40480879,F20.8,Lethal catatonia,Other schizophrenia
+732,40480879,F20,Lethal catatonia,Schizophrenia
+733,40480879,295.90,Lethal catatonia,"Unspecified schizophrenia, unspecified"
+734,40480879,295.80,Lethal catatonia,"Other specified types of schizophrenia, unspecified"
+735,40480879,295.2,Lethal catatonia,Catatonic type schizophrenia
+736,40480879,F20.89,Lethal catatonia,Other schizophrenia
