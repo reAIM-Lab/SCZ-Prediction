@@ -2,25 +2,15 @@
 ### Aparajita Kashyap, Noémie Elhadad, Steven A. Kushner, Shalmali Joshi
 
 #### Project Overview
-Schizophrenia is a highly burdensome mental health disorder; early detection of schizophrenia will enable interventions and monitoring that improve clinical outcomes. We develop a machine learning model using large-scale observational health data that predicts schizophrenia onset for psychosis patients. We further assess the robustness of our model by stratifying across race, gender, and levels of healthcare utilization. 
-
-We use data from the Merative Marketscan Multi-state Medicaid dataset, which includes longitudinal administrative claims records for Medicaid users from 2008-2017. We use a validated phenotype to identify patients with at least 7 years of observation and at least one non-schizophrenia psychosis diagnosis prior to the index date (initial schizophrenia diagnosis or end of observation). As input into the model, we include prior conditions, medications, laboratory events, procedures, and visits. Patients are sampled at regular intervals between psychosis and the data censor date (90 days prior to initial schizophrenia diagnosis or end of observation) to enable prediction at different times in a patient’s trajectory. 
-
-The Medicaid cohort consists of 23,781 psychosis patients of which 1,147 (4.8%) develop schizophrenia. The XGBoost model showed the highest performance: AUROC of 0.986 [95% CI: 0.985, 0.987]; sensitivity of 0.926 [0.920, 0.931]; specificity of 0.962 [0.961, 0.962]; and positive predictive value of 0.625 [0.618, 0.634]. The most important features relate to healthcare utilization (visit length of stay), routine care (oral and vision exams), and psychiatric care (antipsychotics, psychiatric diagnostic evaluation). Our model exhibits high performance and potential for clinical utility for predicting schizophrenia onset amongst patients with prior psychosis diagnoses. This model has utility both at psychosis onset and as a patient’s trajectory evolves over time.
+Schizophrenia is a debilitating psychiatric disorder in which earlier clinical recognition would enhance monitoring and treatment planning. We develop a deep learning model using Medicaid administrative claims to predict the risk of schizophrenia following antecedent episodes of psychosis. We included 158,704 individuals with a history of psychosis, of whom 13,437 (8.5%) were subsequently diagnosed with schizophrenia. We used a validated phenotype to predict the individual-level likelihood of future incipient schizophrenia by leveraging temporal patterns of clinical features. External validity of the best performing model, a transformer-based neural network, was assessed using an independent, commercially insured cohort. The transformer model exhibited an AUROC of 0.791 [95% CI: 0.788, 0.794] and transported well to the external dataset (AUROC: 0.763 [0.751, 0.772]). Features with the highest information content were predominantly related to psychiatric care and healthcare utilization. Overall, we find promising performance for schizophrenia risk stratification among individuals with a history of psychosis. 
 
 #### Running code from this repository
 1. Data Processing
 - *CohortCreation_PatientID:* identify patients who belong in the schizophrenia-positive and schizophrenia-negative cohorts
 - *temporaldata_creation:* pull relevant data from the following tables: condition occurrence, visit occurrence, drug era, procedure occurrence, measurement
-- *Deciding_VisitSplit:* identify the appropriate frequency (every nth visit) with which to sample patients
-- *Creation_ModelInput:* takes in output from temporaldata_creation.py and outputs a csv that can be used as input into the model
+- *create_flat_df_snomed and create_grud_timedeltas:* generates flat files of the data needed for creating the dataloader objects (grud_timedeltas is needed for the GRU-D model only)
+- *create_dataloaders, create_grud_dataloaders:* takes in flat files and generates dataloaders for the model
 2. Run Models
-- *run_model:* includes preprocessing code for splitting and scaling, as well as the XGBoost model ultimately used in the paper
-- Baseline models code allows you to create models without re-processing the data
-3. Evaluation: the scripts correspond to the following figures: 
-- Population Results: Table 2, eFigure 2
-- Model Interpretation: Figure 1, eFigure 3
-- Stability Analysis: Figure 2
-- Healthcare Utilization: Figure 3
-- Demographic Robustness: Table 2
-- Feature Group Interpretation: eFigure 4
+- Each "run" file trains models according to the specified architecture
+3. Evaluation: scripts to calculate performance for different subgroups
+- *Evaluation/AFO* contains scripts to run feature importance
